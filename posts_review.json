@@ -1,0 +1,1234 @@
+{
+  "source": "kostas thoughts.txt",
+  "generated_at": "2026-06-17T13:14:18+00:00",
+  "post_count": 122,
+  "notes": [
+    "Input was treated as read-only.",
+    "Posts were split on blank-line-separated blocks.",
+    "The source file contains URL entries only; tweet text was added from local tweet_cache.json when available.",
+    "Dates were inferred offline from X/Twitter snowflake status IDs where available.",
+    "Topics and summary questions were inferred locally from cached tweet text."
+  ],
+  "posts": [
+    {
+      "id": "2064741250062746029",
+      "date": "2026-06-10",
+      "text": "#KostasThoughts : I’m a HUGE fan of using visual analogies as section title screens. They serve as visual bookmarks, helping the audience navigate the material while reinforcing a key idea and adding a touch of humour 😉 https://t.co/D2uUblNj9k pic.twitter.com/5Ck104sWv6",
+      "url": "https://x.com/CSProfKGD/status/2064741250062746029?s=20",
+      "title": "How can visual analogies make lecture sections easier to follow?",
+      "summary_question": "How can visual analogies make lecture sections easier to follow?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "2064685553954509262",
+      "date": "2026-06-10",
+      "text": "#KostasThoughts : One of my goals this fall is to get back into my home studio, start recording lectures, and share them publicly. At this point, creating lecture slides and giving in-person lectures come fairly easily. Recording and editing lectures, however, still feels… https://t.co/D2uUblNj9k pic.twitter.com/wkh0mZ4Z2A",
+      "url": "https://x.com/CSProfKGD/status/2064685553954509262?s=20",
+      "title": "How can recorded lectures become useful public teaching resources?",
+      "summary_question": "How can recorded lectures become useful public teaching resources?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "2064682482876747861",
+      "date": "2026-06-10",
+      "text": "#KostasThoughts : Someone recently asked me about automating slide creation. For me, creating slides is part of the learning process. Breaking a topic into its building blocks and putting it back together helps me understand it. I hope my students learn from the lecture, but I… https://t.co/D2uUblNj9k",
+      "url": "https://x.com/CSProfKGD/status/2064682482876747861?s=20",
+      "title": "Why can making slides be part of learning the material?",
+      "summary_question": "Why can making slides be part of learning the material?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "2064682371752898665",
+      "date": "2026-06-10",
+      "text": "#KostasThoughts My lecture motto: Your eyeballs are mine. One idea at a time. The focus of the slide should always match the focus of the speech. https://t.co/D2uUblNj9k",
+      "url": "https://x.com/CSProfKGD/status/2064682371752898665?s=20",
+      "title": "How should each slide focus the audience on one idea at a time?",
+      "summary_question": "How should each slide focus the audience on one idea at a time?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "2064280550311956837",
+      "date": "2026-06-09",
+      "text": "#KostasThoughts : Endless reading of papers can be a form of procrastination. It feels productive, but often it’s just a way to avoid doing the work. https://t.co/0RpIenkTZ7 pic.twitter.com/bkY7upnnAU",
+      "url": "https://x.com/CSProfKGD/status/2064280550311956837?s=20",
+      "title": "When does reading papers become procrastination?",
+      "summary_question": "When does reading papers become procrastination?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "2064009179539427834",
+      "date": "2026-06-08",
+      "text": "#KostasThoughts : I’ve been thinking about the criteria for award-winning papers 🏆 They should embody what our community values most: originality, potential impact, and reproducibility. Yet (full) reproducibility is often missing, even among award-winning papers. Making code and…",
+      "url": "https://x.com/CSProfKGD/status/2064009179539427834?s=20",
+      "title": "What should award-winning papers demonstrate?",
+      "summary_question": "What should award-winning papers demonstrate?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "2063884678700945896",
+      "date": "2026-06-08",
+      "text": "#KostasThoughts : If a paper promises code/weights in the review submission, then it must be made available by the time of the conference; otherwise, conference should desk reject the paper.",
+      "url": "https://x.com/CSProfKGD/status/2063884678700945896?s=20",
+      "title": "Should promised code and weights be available by conference time?",
+      "summary_question": "Should promised code and weights be available by conference time?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "2055581221485183283",
+      "date": "2026-05-16",
+      "text": "#KostasThoughts Junior faculty advice: if it matters to you, get it in writing! People may act in good faith today. But memories change, administrators change, and institutional priorities change.",
+      "url": "https://x.com/CSProfKGD/status/2055581221485183283?s=20",
+      "title": "Why should junior faculty get important promises in writing?",
+      "summary_question": "Why should junior faculty get important promises in writing?",
+      "topic": "Academia & Faculty Life",
+      "subtopic": null
+    },
+    {
+      "id": "2055257932955009052",
+      "date": "2026-05-15",
+      "text": "#KostasThoughts : While consensus among reviewers is appreciated, it is not strictly necessary. As an Area Chair, what matters most is understanding each reviewer’s reasoning and decision-making process. That is why it is imperative that reviewers provide a clear final summary… https://t.co/yDghx0yYi2",
+      "url": "https://x.com/CSProfKGD/status/2055257932955009052?s=20",
+      "title": "What should area chairs look for in reviewer reasoning?",
+      "summary_question": "What should area chairs look for in reviewer reasoning?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "2044507813414588654",
+      "date": "2026-04-15",
+      "text": "#KostasThoughts : Perhaps we’ve gone too far with requiring ALL authors to be in the reviewer pool in computer vision conferences and instead we should consider a per paper nomination system 🤔",
+      "url": "https://x.com/CSProfKGD/status/2044507813414588654?s=20",
+      "title": "Should conferences rethink who enters the reviewer pool?",
+      "summary_question": "Should conferences rethink who enters the reviewer pool?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "2044125831220363715",
+      "date": "2026-04-14",
+      "text": "#KostasThoughts : A little under the weather these past couple of days. I just found this on my desk. Do not underestimate the power of small gestures. A simple follow-up after a meeting can mean a lot! pic.twitter.com/eGPNmuUh79",
+      "url": "https://x.com/CSProfKGD/status/2044125831220363715?s=20",
+      "title": "Why do small gestures after meetings matter?",
+      "summary_question": "Why do small gestures after meetings matter?",
+      "topic": "Personal Reflections",
+      "subtopic": null
+    },
+    {
+      "id": "2042634623667101965",
+      "date": "2026-04-10",
+      "text": "#KostasThoughts : Losing a parent and getting older puts life into perspective. You get one life. Play the long game. Make it count! https://t.co/LfKTit9gGV",
+      "url": "https://x.com/CSProfKGD/status/2042634623667101965?s=20",
+      "title": "How can loss clarify the importance of playing the long game?",
+      "summary_question": "How can loss clarify the importance of playing the long game?",
+      "topic": "Personal Reflections",
+      "subtopic": null
+    },
+    {
+      "id": "2038198647679009131",
+      "date": "2026-03-29",
+      "text": "#KostasThoughts : As a baby step, conferences should consider establishing a separate track for multimedia-style articles. I miss the Distill articles. https://t.co/aytzEWUG3M https://t.co/dhVwFfRIyQ",
+      "url": "https://x.com/CSProfKGD/status/2038198647679009131?s=20",
+      "title": "Should conferences create tracks for multimedia research articles?",
+      "summary_question": "Should conferences create tracks for multimedia research articles?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "2038197705353183280",
+      "date": "2026-03-29",
+      "text": "#KostasThoughts : It’s 2026 and our research is still summarized with a static PDF. We abandoned transparencies for talks, so why not static papers? It’s time for innovation in this space, where “papers” are presented with rich, multimedia content. https://t.co/1VOYosPYkK",
+      "url": "https://x.com/CSProfKGD/status/2038197705353183280?s=20",
+      "title": "How should research papers move beyond static PDFs?",
+      "summary_question": "How should research papers move beyond static PDFs?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "2037416736904052837",
+      "date": "2026-03-27",
+      "text": "#KostasThoughts: Using images/videos in your slides?\n\nDesign your slide so that the imagery bleeds over the image boundaries.",
+      "url": "https://x.com/CSProfKGD/status/2037416736904052837?s=20",
+      "title": "How should images and videos bleed beyond slide boundaries?",
+      "summary_question": "How should images and videos bleed beyond slide boundaries?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "2035699174407057762",
+      "date": "2026-03-22",
+      "text": "#KostasThoughts : Time with family, friends and loved ones is never something to take for granted. Be present. Enjoy their company. Make that precious time count. Thinking of my dad every day. https://t.co/7XHVq2SLBs",
+      "url": "https://x.com/CSProfKGD/status/2035699174407057762?s=20",
+      "title": "How can we be more present with loved ones?",
+      "summary_question": "How can we be more present with loved ones?",
+      "topic": "Personal Reflections",
+      "subtopic": null
+    },
+    {
+      "id": "2035331378582093998",
+      "date": "2026-03-21",
+      "text": "#KostasThoughts : The LLM-agentic approach to research is a paradigm shift, especially for those fluent in the “dark arts” of handcrafted research. But what about newcomers? Do they struggle without that foundation, or move faster because they are not constrained by it? Does… https://t.co/pohepmr53t",
+      "url": "https://x.com/CSProfKGD/status/2035331378582093998?s=20",
+      "title": "How will LLM agents change the way newcomers learn research?",
+      "summary_question": "How will LLM agents change the way newcomers learn research?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "2035064787164402099",
+      "date": "2026-03-20",
+      "text": "#KostasThoughts : For once I ditch the track pants, dress up (a little) for work … and the first questions from the lab are: “Giving a talk?” “Interviewing?” 😅 pic.twitter.com/7xUEQcsfuy",
+      "url": "https://x.com/CSProfKGD/status/2035064787164402099?s=20",
+      "title": "What happens when casual lab style suddenly changes?",
+      "summary_question": "What happens when casual lab style suddenly changes?",
+      "topic": "Career",
+      "subtopic": null
+    },
+    {
+      "id": "2031687649493450756",
+      "date": "2026-03-11",
+      "text": "My VO₂ max progress over the past ~6 months. Best I felt in years 💪 25 → 33.2 Mostly from consistent daily walking (often ~15–20k steps). Nothing fancy. Just consistency. Small gains compound over time. #KostasThoughts pic.twitter.com/L4zccHGtDu",
+      "url": "https://x.com/CSProfKGD/status/2031687649493450756?s=20",
+      "title": "What does steady fitness progress look like over time?",
+      "summary_question": "What does steady fitness progress look like over time?",
+      "topic": "Productivity",
+      "subtopic": null
+    },
+    {
+      "id": "2029603806753743093",
+      "date": "2026-03-05",
+      "text": "#KostasThoughts : Venue macros in your BibTeX are your best friend. Define the venue once. Fix it everywhere. https://t.co/otwTmUiWtg",
+      "url": "https://x.com/CSProfKGD/status/2029603806753743093?s=20",
+      "title": "Why are venue macros useful in BibTeX?",
+      "summary_question": "Why are venue macros useful in BibTeX?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "2021963774715109769",
+      "date": "2026-02-12",
+      "text": "#KostasThoughts : The ends don’t justify the means. Simply achieving state-of-the-art results is not grounds for acceptance. Claims and methods must also be coherent. pic.twitter.com/j8IFbT2UVT",
+      "url": "https://x.com/CSProfKGD/status/2021963774715109769?s=20",
+      "title": "Why do research methods matter as much as results?",
+      "summary_question": "Why do research methods matter as much as results?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "2020573376486527022",
+      "date": "2026-02-08",
+      "text": "#KostasThoughts : Stay organized and keep intermediate, raw project results. You never know when you, or your supervisor 😉, will need them later for a talk.",
+      "url": "https://x.com/CSProfKGD/status/2020573376486527022?s=20",
+      "title": "Why should researchers keep intermediate project results?",
+      "summary_question": "Why should researchers keep intermediate project results?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "2020090275985781108",
+      "date": "2026-02-07",
+      "text": "#KostasThoughts : I don’t reuse other people’s slides, even my students’. It takes more time, but making my own slides helps me internalize the material and express it in my own visual way.",
+      "url": "https://x.com/CSProfKGD/status/2020090275985781108?s=20",
+      "title": "Why is rebuilding slides part of understanding a topic?",
+      "summary_question": "Why is rebuilding slides part of understanding a topic?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "2019738168808047002",
+      "date": "2026-02-06",
+      "text": "#KostasThoughts : Don’t plan talks by slide count. Plan by pace. Can you comfortably walk through the material in the allotted time? https://t.co/IZlez2RI8g",
+      "url": "https://x.com/CSProfKGD/status/2019738168808047002?s=20",
+      "title": "How should talks be planned by pace instead of slide count?",
+      "summary_question": "How should talks be planned by pace instead of slide count?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "2019512062024773954",
+      "date": "2026-02-05",
+      "text": "#KostasThoughts : Like many others, I used to cram too many images or videos onto one slide. They end up too small, the audience doesn’t know where to look, and you rush through them. My rule now: one idea or example per slide. Slides are free, use them. Here's a comparison:… pic.twitter.com/thcVMOlRD2",
+      "url": "https://x.com/CSProfKGD/status/2019512062024773954?s=20",
+      "title": "How can slide design guide audience attention?",
+      "summary_question": "How can slide design guide audience attention?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "2002814327708078460",
+      "date": "2025-12-21",
+      "text": "#KostasThoughts Something I tell my students: Don’t make my mistakes. Learn from mine. You’ll make your own anyway 🤓",
+      "url": "https://x.com/CSProfKGD/status/2002814327708078460?s=20",
+      "title": "How can students learn from their mentor’s mistakes?",
+      "summary_question": "How can students learn from their mentor’s mistakes?",
+      "topic": "Mentoring & Students",
+      "subtopic": null
+    },
+    {
+      "id": "1998033336388993509",
+      "date": "2025-12-08",
+      "text": "#KostasThoughts : One idea per slide. Slides cost nothing. Pacing is everything, not the slide total.",
+      "url": "https://x.com/CSProfKGD/status/1998033336388993509?s=20",
+      "title": "Why should slides carry one idea at a time?",
+      "summary_question": "Why should slides carry one idea at a time?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1994443941421195411",
+      "date": "2025-11-28",
+      "text": "#KostasThoughts : The #ICLR2026 review process has been disappointing. This is not on the PCs. It reflects our current environment where the scale of reviewing across the various conferences may have outgrown the bandwidth of the community (eg shortcuts via LLM generated reviews)…",
+      "url": "https://x.com/CSProfKGD/status/1994443941421195411?s=20",
+      "title": "What makes a review process disappointing?",
+      "summary_question": "What makes a review process disappointing?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1991929937020830002",
+      "date": "2025-11-21",
+      "text": "#KostasThoughts : A prof’s email is not an admissions portal! Many prospective students copy-and-paste their statement of purpose or use a generic template (sometimes LLM-generated) and add a line or two about the prof’s broad research area and random paper from the professor’s…",
+      "url": "https://x.com/CSProfKGD/status/1991929937020830002?s=20",
+      "title": "How can researchers improve the way they communicate work?",
+      "summary_question": "How can researchers improve the way they communicate work?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1990236020881908038",
+      "date": "2025-11-17",
+      "text": "#KostasThoughts : Please stop using AI tools to write reviews. I want your authentic thoughts, even if they contain spelling, grammar, & factual mistakes. An LLM should not influence your judgment. The purpose of multiple reviewers is to provide diverse views and error checking.",
+      "url": "https://x.com/CSProfKGD/status/1990236020881908038?s=20",
+      "title": "Why should reviewers write authentic reviews themselves?",
+      "summary_question": "Why should reviewers write authentic reviews themselves?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1961065739638468655",
+      "date": "2025-08-28",
+      "text": "#KostasThoughts : In academia, resilience gets you past the NOs. Strength keeps you from replying with that angry email 😡 Passed over again but not deterred. pic.twitter.com/ZIPjEbKMLA",
+      "url": "https://x.com/CSProfKGD/status/1961065739638468655?s=20",
+      "title": "How does resilience help in academia?",
+      "summary_question": "How does resilience help in academia?",
+      "topic": "Academia & Faculty Life",
+      "subtopic": null
+    },
+    {
+      "id": "1922401234348073114",
+      "date": "2025-05-13",
+      "text": "#KostasThoughts : A common issue I see in the “related work” section of many papers is that they list similar prior work without clearly contextualizing their own contributions. The goal of this section is not just to cite related methods, but to compare and contrast them,…",
+      "url": "https://x.com/CSProfKGD/status/1922401234348073114?s=20",
+      "title": "How should related work contextualize a paper's contribution?",
+      "summary_question": "How should related work contextualize a paper's contribution?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1922300809930273032",
+      "date": "2025-05-13",
+      "text": "#KostasThoughts : Rebuttals are part truth-finding, part reviewer psychology. Good luck 🤞",
+      "url": "https://x.com/CSProfKGD/status/1922300809930273032?s=20",
+      "title": "How should authors think about rebuttals?",
+      "summary_question": "How should authors think about rebuttals?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1922275723298955669",
+      "date": "2025-05-13",
+      "text": "#KostasThoughts : Struggling to understand parts of a paper you are reviewing? That’s valuable feedback to the authors! I suspect some worry they’ll be judged for not fully grasping every detail. It’s OK to admit you don’t understand something, better yet it’s even more… https://t.co/M0rP98a4ws",
+      "url": "https://x.com/CSProfKGD/status/1922275723298955669?s=20",
+      "title": "How can peer review become more useful and fair?",
+      "summary_question": "How can peer review become more useful and fair?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1921601804338426278",
+      "date": "2025-05-11",
+      "text": "#KostasThoughts : In your reviews, if you’re flagging missing citations as critical oversights, please include the venue. You might then realize those “essential” papers haven’t even been published yet, or are slated for future conferences that are out of scope 😡",
+      "url": "https://x.com/CSProfKGD/status/1921601804338426278?s=20",
+      "title": "How can peer review become more useful and fair?",
+      "summary_question": "How can peer review become more useful and fair?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1920180821413003506",
+      "date": "2025-05-07",
+      "text": "#KostasThoughts : Another major conference review drop is around the corner. In baseball, a .300 average is elite. In research, it’s a familiar reality: submitting to top conferences means rejections happen. Keep swinging.",
+      "url": "https://x.com/CSProfKGD/status/1920180821413003506?s=20",
+      "title": "How should researchers handle another round of conference reviews?",
+      "summary_question": "How should researchers handle another round of conference reviews?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1900998474268643662",
+      "date": "2025-03-15",
+      "text": "#KostasThoughts : This is my last semester teaching for a year, my sabbatical starts July 1st. When I return, will I still be designing assignments for students … or for their AI assistants? The future of education is changing fast 🤔",
+      "url": "https://x.com/CSProfKGD/status/1900998474268643662?s=20",
+      "title": "How will AI assistants change assignment design?",
+      "summary_question": "How will AI assistants change assignment design?",
+      "topic": "Mentoring & Students",
+      "subtopic": null
+    },
+    {
+      "id": "1898016162987806921",
+      "date": "2025-03-07",
+      "text": "#KostasThoughts : When communicating with conference organizers, start by assuming good intentions and always keep it respectful. Remember, these are real people, volunteering their time and making personal sacrifices to bring everything together.",
+      "url": "https://x.com/CSProfKGD/status/1898016162987806921?s=20",
+      "title": "How should authors communicate with conference organizers?",
+      "summary_question": "How should authors communicate with conference organizers?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1886178291351994434",
+      "date": "2025-02-02",
+      "text": "#KostasThoughts : As an AC, it’s frustrating when reviewers only see the rebuttal through the lens of their own review. Step back—consider all reviews and discussions. DON’T rush to finalize; see the FULL picture! https://t.co/Oghvb6Jpi4",
+      "url": "https://x.com/CSProfKGD/status/1886178291351994434?s=20",
+      "title": "How should area chairs read rebuttals beyond one review?",
+      "summary_question": "How should area chairs read rebuttals beyond one review?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1883904287459467715",
+      "date": "2025-01-27",
+      "text": "#KostasThoughts : When preparing slides, map out your presentation offline first. Clarity starts off-screen. pic.twitter.com/28E9aRN1m1",
+      "url": "https://x.com/CSProfKGD/status/1883904287459467715?s=20",
+      "title": "Why should presentations be mapped out before making slides?",
+      "summary_question": "Why should presentations be mapped out before making slides?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1882841750009762230",
+      "date": "2025-01-24",
+      "text": "#KostasThoughts : Persistence is a key attribute in academia. Behind every yes, there are countless nos. pic.twitter.com/TsCCAxcbpj",
+      "url": "https://x.com/CSProfKGD/status/1882841750009762230?s=20",
+      "title": "Why is persistence essential in academia?",
+      "summary_question": "Why is persistence essential in academia?",
+      "topic": "Academia & Faculty Life",
+      "subtopic": null
+    },
+    {
+      "id": "1882091136439001227",
+      "date": "2025-01-22",
+      "text": "#KostasThoughts : Guard your free time, no one else will. Saying no is a skill, one that I’m (very) slowly mastering. #AcademicLife",
+      "url": "https://x.com/CSProfKGD/status/1882091136439001227?s=20",
+      "title": "How can academics guard their free time?",
+      "summary_question": "How can academics guard their free time?",
+      "topic": "Academia & Faculty Life",
+      "subtopic": null
+    },
+    {
+      "id": "1880768154345083207",
+      "date": "2025-01-19",
+      "text": "#KostasThoughts : I’m more convinced than ever that desk rejecting all papers from reviewers who ghost the process should be standard practice. It’s completely unprofessional! https://t.co/LbfZkMXt95 pic.twitter.com/36vdsv610J",
+      "url": "https://x.com/CSProfKGD/status/1880768154345083207?s=20",
+      "title": "How can peer review become more useful and fair?",
+      "summary_question": "How can peer review become more useful and fair?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1879530836787429622",
+      "date": "2025-01-15",
+      "text": "#KostasThoughts : It should be considered an “irresponsible review” when none is submitted at the deadline AND the reviewer does not follow up with the area chair’s request for a timeline to submit. https://t.co/gMa4Z539xn",
+      "url": "https://x.com/CSProfKGD/status/1879530836787429622?s=20",
+      "title": "When does a missing review become irresponsible?",
+      "summary_question": "When does a missing review become irresponsible?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1866880672704729169",
+      "date": "2024-12-11",
+      "text": "#KostasThoughts : Use vector images in your figures rather than rasterized ones. pic.twitter.com/AXMnViIo6j",
+      "url": "https://x.com/CSProfKGD/status/1866880672704729169?s=20",
+      "title": "Why should figures use vector images?",
+      "summary_question": "Why should figures use vector images?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1863923722014339123",
+      "date": "2024-12-03",
+      "text": "#KostasThoughts : We in CS do a poor job showcasing our field. Just check Google Images, it’s mostly screens full of code or people staring at them. To boost diversity, we need to highlight CS as problem-solving first and show students its vast, diverse applications. pic.twitter.com/pm5cNPmRDN",
+      "url": "https://x.com/CSProfKGD/status/1863923722014339123?s=20",
+      "title": "How can computer science better showcase itself?",
+      "summary_question": "How can computer science better showcase itself?",
+      "topic": "Mentoring & Students",
+      "subtopic": null
+    },
+    {
+      "id": "1863558702353002800",
+      "date": "2024-12-02",
+      "text": "#KostasThoughts : “Guns don’t kill people, bullets do!” Please stop using them in your slides.",
+      "url": "https://x.com/CSProfKGD/status/1863558702353002800?s=20",
+      "title": "Why should presenters stop using bullet-heavy slides?",
+      "summary_question": "Why should presenters stop using bullet-heavy slides?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1863280731721486441",
+      "date": "2024-12-01",
+      "text": "#KostasThoughts : Please respect your letterwriters & give them sufficient notice, eg 4+ weeks, not days. Don’t be shy to send them reminders, remember they’ve agreed to write it. Things inadvertently get dropped, if it’s your letter that gets forgotten, it’s your loss.",
+      "url": "https://x.com/CSProfKGD/status/1863280731721486441?s=20",
+      "title": "How much notice should letter writers receive?",
+      "summary_question": "How much notice should letter writers receive?",
+      "topic": "Mentoring & Students",
+      "subtopic": null
+    },
+    {
+      "id": "1855663203163734202",
+      "date": "2024-11-10",
+      "text": "#KostasThoughts : I’m team FAT figure caption. Walk them through your figure in the caption. Don’t use the weak terse caption “see main text” and leave it to the reader to hunt through the main text for a description what you are illustrating.",
+      "url": "https://x.com/CSProfKGD/status/1855663203163734202?s=20",
+      "title": "Why should figure captions walk readers through the figure?",
+      "summary_question": "Why should figure captions walk readers through the figure?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1854218703967334862",
+      "date": "2024-11-06",
+      "text": "#KostasThoughts : Given the deluge of research these days it’s critical that researchers (especially early ones) have a social media presence and webpage with links to project pages. Check out @ashmrz10 ’s new webpage 😍 https://t.co/14RLGnNlnQ pic.twitter.com/qSXCLQXUfd",
+      "url": "https://x.com/CSProfKGD/status/1854218703967334862?s=20",
+      "title": "Why do early researchers need a web and social media presence?",
+      "summary_question": "Why do early researchers need a web and social media presence?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1839690270234890626",
+      "date": "2024-09-27",
+      "text": "#KostasThoughts : I’ve never been invited to give a workshop talk about my research. Admittedly, I have broad interests. So while I’m known through my X account, and we consistently publish, not sure most can attach me to a particular research area. My takeaway: At least as…",
+      "url": "https://x.com/CSProfKGD/status/1839690270234890626?s=20",
+      "title": "How can broad researchers make their work easier to recognize?",
+      "summary_question": "How can broad researchers make their work easier to recognize?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1835427195566670245",
+      "date": "2024-09-15",
+      "text": "#KostasThoughts : If the text in your figure is not readable on paper then you are doing it wrong. One should not need to pinch and zoom to read it.",
+      "url": "https://x.com/CSProfKGD/status/1835427195566670245?s=20",
+      "title": "How readable should figure text be in a paper?",
+      "summary_question": "How readable should figure text be in a paper?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1773724533444280355",
+      "date": "2024-03-29",
+      "text": "#KostasThoughts : AVOID using rasterized image formats, especially on plots. Many will read your paper in digital format where rasterizarion artifacts are annoying and distracting.",
+      "url": "https://x.com/CSProfKGD/status/1773724533444280355?s=20",
+      "title": "Why should plots avoid rasterized image formats?",
+      "summary_question": "Why should plots avoid rasterized image formats?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1755622712272130320",
+      "date": "2024-02-08",
+      "text": "#KostasThoughts : For those jr researchers on the faculty market, be on the lookout for the culture in the department/university. A good one can propel your research program and growth forward, a bad one can stunt your progress. Cultures evolve very slowly in academia, don’t…",
+      "url": "https://x.com/CSProfKGD/status/1755622712272130320?s=20",
+      "title": "What should faculty keep in mind about academic life?",
+      "summary_question": "What should faculty keep in mind about academic life?",
+      "topic": "Academia & Faculty Life",
+      "subtopic": null
+    },
+    {
+      "id": "1754260946179002523",
+      "date": "2024-02-04",
+      "text": "#KostasThoughts : A key quality of a successful graduate student (and researchers in general) is the ability to push through failures. Failure is the rule not the exception. Learn from them and savour those few successes along the way. pic.twitter.com/drI3JrIdhP",
+      "url": "https://x.com/CSProfKGD/status/1754260946179002523?s=20",
+      "title": "Why must researchers learn to push through failure?",
+      "summary_question": "Why must researchers learn to push through failure?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1753894844957622307",
+      "date": "2024-02-03",
+      "text": "#KostasThoughts : There is no shame getting the initial review wrong, e.g., by missing an important detail. It is wrong when you let your ego get in the way of arriving at the correct decision.",
+      "url": "https://x.com/CSProfKGD/status/1753894844957622307?s=20",
+      "title": "How should reviewers respond when a rebuttal changes their mind?",
+      "summary_question": "How should reviewers respond when a rebuttal changes their mind?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1751684843677610068",
+      "date": "2024-01-28",
+      "text": "#KostasThoughts : Program chairs can’t anticipate all issues. One needs a lawyer to anticipate some of them. Be understanding and patient. In cases where issues arise, the PCs’ goal is to come up with a just decision while balancing fairness for all submissions. Be patient,…",
+      "url": "https://x.com/CSProfKGD/status/1751684843677610068?s=20",
+      "title": "How should authors respond when conference issues arise?",
+      "summary_question": "How should authors respond when conference issues arise?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1751663818235682951",
+      "date": "2024-01-28",
+      "text": "#KostasThoughts : Being a program co-chair this past #WACV2024 exposed me to many submission problems. Some issues are serious enough that they can result in a paper desk-rejection or withdraw later. Here’s a list of some common issues: - make sure all authors are registered…",
+      "url": "https://x.com/CSProfKGD/status/1751663818235682951?s=20",
+      "title": "What submission problems can lead to desk rejection?",
+      "summary_question": "What submission problems can lead to desk rejection?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1744721617232830942",
+      "date": "2024-01-09",
+      "text": "#KostasThoughts : The most frustrating & nerve racking period for an area chair is the review deadline, where reviewers go missing. While reviewers missing the deadline is suboptimal, it is CRITICAL that reviewers keep their AC informed about the timeline for delivering their…",
+      "url": "https://x.com/CSProfKGD/status/1744721617232830942?s=20",
+      "title": "Why should late reviewers keep area chairs informed?",
+      "summary_question": "Why should late reviewers keep area chairs informed?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1743043604153790517",
+      "date": "2024-01-04",
+      "text": "#KostasThoughts : For those attending #WACV2024 this week, take advantage of the more intimate setting and look to establish long-term bonds with your peers.",
+      "url": "https://x.com/CSProfKGD/status/1743043604153790517?s=20",
+      "title": "How can smaller conferences help build long-term connections?",
+      "summary_question": "How can smaller conferences help build long-term connections?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1729159371861717424",
+      "date": "2023-11-27",
+      "text": "#KostasThoughts : The best undergraduate university education you can get is one that sets you up to be a life-learner. Thank you @UofTCompSci !",
+      "url": "https://x.com/CSProfKGD/status/1729159371861717424?s=20",
+      "title": "What makes an undergraduate education prepare you for lifelong learning?",
+      "summary_question": "What makes an undergraduate education prepare you for lifelong learning?",
+      "topic": "Academia & Faculty Life",
+      "subtopic": null
+    },
+    {
+      "id": "1717039520229544268",
+      "date": "2023-10-25",
+      "text": "#KostasThoughts : When it comes to student supervision, the starting point is mutual trust, honesty and frankness. Without these prerequisites, the collaboration is doomed to fail.",
+      "url": "https://x.com/CSProfKGD/status/1717039520229544268?s=20",
+      "title": "What is the foundation of healthy student supervision?",
+      "summary_question": "What is the foundation of healthy student supervision?",
+      "topic": "Mentoring & Students",
+      "subtopic": null
+    },
+    {
+      "id": "1709950894551261579",
+      "date": "2023-10-05",
+      "text": "#KostasThoughts : Do not copy and paste your paper tables into your prezi.",
+      "url": "https://x.com/CSProfKGD/status/1709950894551261579?s=20",
+      "title": "Why shouldn't we copy and paste your paper tables into your prezi?",
+      "summary_question": "Why shouldn't we copy and paste your paper tables into your prezi?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1685622625211486208",
+      "date": "2023-07-30",
+      "text": "#KostasThoughts : I’ve been fortunate to have AMAZING senior mentors (Richard Wildes, John Tsotsos, @KostasPenn , Sven Dickinson, Allan Jepson), always be on the look out for your own! As I get older (gasp), my advisers are slowly moving on leaving me as a senior advisor 😬",
+      "url": "https://x.com/CSProfKGD/status/1685622625211486208?s=20",
+      "title": "Why should researchers seek strong senior mentors?",
+      "summary_question": "Why should researchers seek strong senior mentors?",
+      "topic": "Mentoring & Students",
+      "subtopic": null
+    },
+    {
+      "id": "1685322806819426304",
+      "date": "2023-07-29",
+      "text": "#KostasThoughts : Be generous with your retweets and likes as they can signal boost the work of early researchers.",
+      "url": "https://x.com/CSProfKGD/status/1685322806819426304?s=20",
+      "title": "How can retweets and likes help early researchers?",
+      "summary_question": "How can retweets and likes help early researchers?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1685288386775359489",
+      "date": "2023-07-29",
+      "text": "#KostasThoughts : Advice I’d give my younger self is take vacations/breaks, your health and work will thank you. pic.twitter.com/1P8BMzaDPJ",
+      "url": "https://x.com/CSProfKGD/status/1685288386775359489?s=20",
+      "title": "Why should younger researchers take real breaks?",
+      "summary_question": "Why should younger researchers take real breaks?",
+      "topic": "Personal Reflections",
+      "subtopic": null
+    },
+    {
+      "id": "1680615121066786816",
+      "date": "2023-07-16",
+      "text": "#KostasThoughts : I urge everyone to be a program chair for a workshop/conference. That way they would be more thoughtful with their social media pronouncements.",
+      "url": "https://x.com/CSProfKGD/status/1680615121066786816?s=20",
+      "title": "Why should more people serve as program chairs?",
+      "summary_question": "Why should more people serve as program chairs?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1662462751753609216",
+      "date": "2023-05-27",
+      "text": "#KostasThoughts : To pull or not pull a paper from submission? If there are critical flaws in the reviews then rebut, if there are critical flaws exposed in your work pull. If there are major concerns in the reviews and you do not submit a rebuttal, then pull the paper.",
+      "url": "https://x.com/CSProfKGD/status/1662462751753609216?s=20",
+      "title": "How can peer review become more useful and fair?",
+      "summary_question": "How can peer review become more useful and fair?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1662460775242375169",
+      "date": "2023-05-27",
+      "text": "#KostasThoughts : I get a lot of people asking me \"Should I send a private message to the area chair about a negative reviewer?\" My own opinion is fight it in the actual rebuttal. Use the private message feature only to point out an egregious violation of the rules.",
+      "url": "https://x.com/CSProfKGD/status/1662460775242375169?s=20",
+      "title": "When should authors message an area chair privately?",
+      "summary_question": "When should authors message an area chair privately?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1662456140654075904",
+      "date": "2023-05-27",
+      "text": "#KostasThoughts : Rebuttals are part intellectual fact seeking and part reviewer psychology.",
+      "url": "https://x.com/CSProfKGD/status/1662456140654075904?s=20",
+      "title": "How should authors think about rebuttals?",
+      "summary_question": "How should authors think about rebuttals?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1640329275415969792",
+      "date": "2023-03-27",
+      "text": "#KostasThoughts : If your audience can’t see ALL your slide details from the back of the room, you are doing it wrong. Save the apologize during the talk and fix it. Your audience will thank you 😉 pic.twitter.com/rxRolJqS61",
+      "url": "https://x.com/CSProfKGD/status/1640329275415969792?s=20",
+      "title": "How can slide design guide audience attention?",
+      "summary_question": "How can slide design guide audience attention?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1637836860171886594",
+      "date": "2023-03-20",
+      "text": "#KostasThoughts : Be good to your faculty colleagues. Chances are they are not going anywhere for a long while. HUGE no no in my books is trying to recruit grad students from another lab in the department to join your lab behind the advisor's back, even if student initiates it.",
+      "url": "https://x.com/CSProfKGD/status/1637836860171886594?s=20",
+      "title": "Why should faculty be good colleagues inside the department?",
+      "summary_question": "Why should faculty be good colleagues inside the department?",
+      "topic": "Mentoring & Students",
+      "subtopic": null
+    },
+    {
+      "id": "1637574035449040896",
+      "date": "2023-03-19",
+      "text": "#KostasThoughts : To improve participation in CVF @CVPR @ICCVConference conference governance, I suggest voting be open to all registered participants to the conference in the past K years, e.g., K=3. Share thoughts in thread.",
+      "url": "https://x.com/CSProfKGD/status/1637574035449040896?s=20",
+      "title": "How could conference governance broaden participation?",
+      "summary_question": "How could conference governance broaden participation?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1625864981831905284",
+      "date": "2023-02-15",
+      "text": "#KostasThoughts : Suggestion for junior (all) researchers. Leverage social media to share your cool work. Keep an informative #AcademicTwitter profile with a link to your homepage so people know immediately your research background and can click the link to see more. 1/2",
+      "url": "https://x.com/CSProfKGD/status/1625864981831905284?s=20",
+      "title": "How should junior researchers use social media to share their work?",
+      "summary_question": "How should junior researchers use social media to share their work?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1625856302852476934",
+      "date": "2023-02-15",
+      "text": "#KostasThoughts : I have an admission. I HATED delivering presentations as a student. I would get VERY anxious & avoid if possible. I guess the jokes on me since all I do these days is present 😀 Nervousness is natural. Key to dealing with anxiousness is PREPARATION and PRACTICE! https://t.co/hHy3BQP7Zn pic.twitter.com/9LQ9Dm7Y91",
+      "url": "https://x.com/CSProfKGD/status/1625856302852476934?s=20",
+      "title": "How can nervous presenters grow into confident speakers?",
+      "summary_question": "How can nervous presenters grow into confident speakers?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1621139115222892552",
+      "date": "2023-02-02",
+      "text": "#KostasThoughts : #CVPR2023 rev discussion period started. Time to put our egos aside, read rebuttals, other reviews & discuss. New info now present that puts into question your initial too high or low rating? There is no shame in revising your rating. Let’s get it right!",
+      "url": "https://x.com/CSProfKGD/status/1621139115222892552?s=20",
+      "title": "How should reviewers approach the discussion period?",
+      "summary_question": "How should reviewers approach the discussion period?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1619754265496674306",
+      "date": "2023-01-29",
+      "text": "#KostasThoughts : Don’t let extant methods and paradigms constrain your thinking towards a research topic. Check 👇 out. pic.twitter.com/kZI8bSTWHF",
+      "url": "https://x.com/CSProfKGD/status/1619754265496674306?s=20",
+      "title": "Why shouldn't we let extant methods and paradigms constrain your thinking towards a research topic?",
+      "summary_question": "Why shouldn't we let extant methods and paradigms constrain your thinking towards a research topic?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1618955219383238656",
+      "date": "2023-01-27",
+      "text": "#KostasThoughts : Be generous with your likes and retweets. See something you find interesting, like and share. A lot of early researchers could benefit from the exposure and by extension building up their own network. pic.twitter.com/NBJJw5wLVg",
+      "url": "https://x.com/CSProfKGD/status/1618955219383238656?s=20",
+      "title": "How can likes and retweets build an early research network?",
+      "summary_question": "How can likes and retweets build an early research network?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1603757483771809792",
+      "date": "2022-12-16",
+      "text": "#KostasThoughts : Writing is an ongoing part of the research process. That is all.",
+      "url": "https://x.com/CSProfKGD/status/1603757483771809792?s=20",
+      "title": "Why is writing part of the research process?",
+      "summary_question": "Why is writing part of the research process?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1599767000770699264",
+      "date": "2022-12-05",
+      "text": "#KostasThoughts : Reminders to unsolicited emails are not “gentle” and contrary to the claims in many emails in my inbox, email delivery is actually very reliable. pic.twitter.com/S4CwK7S3N6",
+      "url": "https://x.com/CSProfKGD/status/1599767000770699264?s=20",
+      "title": "Why are unsolicited email reminders rarely gentle?",
+      "summary_question": "Why are unsolicited email reminders rarely gentle?",
+      "topic": "Productivity",
+      "subtopic": null
+    },
+    {
+      "id": "1593673404909068289",
+      "date": "2022-11-18",
+      "text": "#KostasThoughts : In many papers, performance is erroneously listed as a contribution. This is a consequence of the contributions rather than a contribution itself.",
+      "url": "https://x.com/CSProfKGD/status/1593673404909068289?s=20",
+      "title": "Why is performance not itself a paper contribution?",
+      "summary_question": "Why is performance not itself a paper contribution?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1592164963795501056",
+      "date": "2022-11-14",
+      "text": "#KostasThoughts : With the #CVPR2023 supplement deadline days away, here’s a reminder to include output video examples for video-related papers. Nothing more frustrating than to see a sequence of video frames in the supplement where a video would be tremendously more informative!",
+      "url": "https://x.com/CSProfKGD/status/1592164963795501056?s=20",
+      "title": "Why should video papers include supplemental videos?",
+      "summary_question": "Why should video papers include supplemental videos?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1588650313363648512",
+      "date": "2022-11-04",
+      "text": "#KostasThoughts : If your results are too good be skeptical as you may have a bug. Save yourself later headaches and others chasing ghosts by being vigilant with your experiments. pic.twitter.com/QDeRv3hXbY",
+      "url": "https://x.com/CSProfKGD/status/1588650313363648512?s=20",
+      "title": "Why should unusually good results trigger skepticism?",
+      "summary_question": "Why should unusually good results trigger skepticism?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1584580437774454784",
+      "date": "2022-10-24",
+      "text": "#KostasThoughts : During #ECCV2022 get out of your comfort zone and take the opportunity to extend your network by mingling with new people outside of your daily bubble.",
+      "url": "https://x.com/CSProfKGD/status/1584580437774454784?s=20",
+      "title": "How can conferences expand your research network?",
+      "summary_question": "How can conferences expand your research network?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1571501033821736960",
+      "date": "2022-09-18",
+      "text": "#KostasThoughts : Slide animations should have a purpose (e.g., draw attention of audience to a part of the slide). If they have no meaning, you are simply giving a demo of your slideware. Use animations sparingly and with purpose!",
+      "url": "https://x.com/CSProfKGD/status/1571501033821736960?s=20",
+      "title": "How can slide design guide audience attention?",
+      "summary_question": "How can slide design guide audience attention?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1563140240646479873",
+      "date": "2022-08-26",
+      "text": "#KostasThoughts : When submitting a paper that addresses a video-related task, a supplemental video is typically HIGHLY instructive!",
+      "url": "https://x.com/CSProfKGD/status/1563140240646479873?s=20",
+      "title": "Why are supplemental videos useful for video papers?",
+      "summary_question": "Why are supplemental videos useful for video papers?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1555547392052789251",
+      "date": "2022-08-05",
+      "text": "#KostasThoughts : See a cool tweet (eg student sharing new work) then AMPLIFY it by liking and retweeting it. Especially helpful for those that have a low following. #AcademicTwitter pic.twitter.com/ddiieX4jc4",
+      "url": "https://x.com/CSProfKGD/status/1555547392052789251?s=20",
+      "title": "How can academics amplify students' work online?",
+      "summary_question": "How can academics amplify students' work online?",
+      "topic": "Academia & Faculty Life",
+      "subtopic": null
+    },
+    {
+      "id": "1521178905494933504",
+      "date": "2022-05-02",
+      "text": "#KostasThoughts : Core math in many #ComputerScience programs is inadequate for studying #ComputerVision & #MachineLearning . Want to study these subjects? Take (single/multi-variable) calculus, linear algebra, statistics & probability. Your future self will thank you 😉 pic.twitter.com/SsbIAhsStU",
+      "url": "https://x.com/CSProfKGD/status/1521178905494933504?s=20",
+      "title": "What math background helps students study computer vision?",
+      "summary_question": "What math background helps students study computer vision?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1517305180219392000",
+      "date": "2022-04-22",
+      "text": "#KostasThoughts : We should take these past 2 years as a teachable moment. Online teaching started as a necessity but throughout the pandemic I learned new skills. I’m looking at ways to integrate this new skill set into my teaching. https://t.co/B0jGryH2o5",
+      "url": "https://x.com/CSProfKGD/status/1517305180219392000?s=20",
+      "title": "What should online teaching teach us for future courses?",
+      "summary_question": "What should online teaching teach us for future courses?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1516079759926693889",
+      "date": "2022-04-18",
+      "text": "#KostasThoughts : Given its immense utility, I wish SVD was a standard topic in intro linear algebra courses for #ComputerScience students. (Animation: Keynote + After Effects) pic.twitter.com/hIbiCiTjYx",
+      "url": "https://x.com/CSProfKGD/status/1516079759926693889?s=20",
+      "title": "Why should SVD be standard in linear algebra for computer science?",
+      "summary_question": "Why should SVD be standard in linear algebra for computer science?",
+      "topic": "Mentoring & Students",
+      "subtopic": null
+    },
+    {
+      "id": "1514229780488540162",
+      "date": "2022-04-13",
+      "text": "#KostasThoughts : Please be mindful of your colour choices in plots for those that cannot differentiate them. At the very least, use different symbols. pic.twitter.com/G5rnax2Ef4",
+      "url": "https://x.com/CSProfKGD/status/1514229780488540162?s=20",
+      "title": "How can plots be made more accessible?",
+      "summary_question": "How can plots be made more accessible?",
+      "topic": "Research Practice",
+      "subtopic": null
+    },
+    {
+      "id": "1501209804945166338",
+      "date": "2022-03-08",
+      "text": "#KostasThoughts : As I get older, the font size in my slides gets larger 🤔",
+      "url": "https://x.com/CSProfKGD/status/1501209804945166338?s=20",
+      "title": "Why do slide fonts tend to get larger with experience?",
+      "summary_question": "Why do slide fonts tend to get larger with experience?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1497987085344587778",
+      "date": "2022-02-27",
+      "text": "#KostasThoughts : Writing is an ongoing part of the research process. Helps identify holes in your thinking and sharpen your story. It’s something not to be left to the end with a looming submission deadline. pic.twitter.com/uzfKzvOPSS",
+      "url": "https://x.com/CSProfKGD/status/1497987085344587778?s=20",
+      "title": "Why should writing not wait until the deadline?",
+      "summary_question": "Why should writing not wait until the deadline?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1497955678094340106",
+      "date": "2022-02-27",
+      "text": "#KostasThoughts : Many of us have been privileged to have great mentors along the way. Don’t forget to pay it forward.",
+      "url": "https://x.com/CSProfKGD/status/1497955678094340106?s=20",
+      "title": "How can researchers pay mentorship forward?",
+      "summary_question": "How can researchers pay mentorship forward?",
+      "topic": "Mentoring & Students",
+      "subtopic": null
+    },
+    {
+      "id": "1488905123153821702",
+      "date": "2022-02-02",
+      "text": "#KostasThoughts : Start using cups with lids at my desk. So far this week fried a keyboard and touchpad (2 separate occasions) with spills 😢",
+      "url": "https://x.com/CSProfKGD/status/1488905123153821702?s=20",
+      "title": "Why might cups with lids save your desk setup?",
+      "summary_question": "Why might cups with lids save your desk setup?",
+      "topic": "Productivity",
+      "subtopic": null
+    },
+    {
+      "id": "1487095932764270596",
+      "date": "2022-01-28",
+      "text": "#KostasThoughts #CVPR2022 : If you receive (significantly) more than the standard three reviews, shouldn't you receive additional space in the rebuttal 🤔",
+      "url": "https://x.com/CSProfKGD/status/1487095932764270596?s=20",
+      "title": "Should extra reviews come with extra rebuttal space?",
+      "summary_question": "Should extra reviews come with extra rebuttal space?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1486790120711893002",
+      "date": "2022-01-27",
+      "text": "#KostasThoughts #CVPR2022 : There is no shame getting the initial review wrong, e.g., missing an important detail. It is wrong when you let your ego get into the way of arriving to the correct decision.",
+      "url": "https://x.com/CSProfKGD/status/1486790120711893002?s=20",
+      "title": "How should reviewers put ego aside after a rebuttal?",
+      "summary_question": "How should reviewers put ego aside after a rebuttal?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1484554145147367428",
+      "date": "2022-01-21",
+      "text": "#KostasThoughts : Going back to in-person teaching, students are going to miss the ability to rewind, forward, and view lectures at x2.",
+      "url": "https://x.com/CSProfKGD/status/1484554145147367428?s=20",
+      "title": "How can teaching materials become clearer over time?",
+      "summary_question": "How can teaching materials become clearer over time?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1484251167383330819",
+      "date": "2022-01-20",
+      "text": "#KostasThoughts : For those amateur golfers out there, nailing a lecture is like driving the ball with a great swing. Doesn’t come by often, but sweet feeling when it does. I’m in search of those great swings 🤓 pic.twitter.com/zprO02bssb",
+      "url": "https://x.com/CSProfKGD/status/1484251167383330819?s=20",
+      "title": "Why does a great lecture feel like a great swing?",
+      "summary_question": "Why does a great lecture feel like a great swing?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1481480062096523266",
+      "date": "2022-01-13",
+      "text": "#KostasThoughts : Your ACs’ time is valuable. Late submissions take valuable time away from their family.",
+      "url": "https://x.com/CSProfKGD/status/1481480062096523266?s=20",
+      "title": "Why do late submissions cost area chairs valuable time?",
+      "summary_question": "Why do late submissions cost area chairs valuable time?",
+      "topic": "Productivity",
+      "subtopic": null
+    },
+    {
+      "id": "1471158646847516674",
+      "date": "2021-12-15",
+      "text": "#KostasThoughts Academic Twitter has helped me enrich my courses, e.g., adding cutting-edge, real-world examples to augment the theory in a lesson.",
+      "url": "https://x.com/CSProfKGD/status/1471158646847516674?s=20",
+      "title": "How can academic Twitter enrich teaching?",
+      "summary_question": "How can academic Twitter enrich teaching?",
+      "topic": "Academia & Faculty Life",
+      "subtopic": null
+    },
+    {
+      "id": "1467193014477013002",
+      "date": "2021-12-04",
+      "text": "#KostasThoughts : The first few years of teaching are difficult. I was literally ahead of the students by hours in my slide preparation. It gets easier as subsequent course offerings (assuming you don’t bounce around) is focused on refinements and adding select new material. 1/3 https://t.co/6YcdddywqY",
+      "url": "https://x.com/CSProfKGD/status/1467193014477013002?s=20",
+      "title": "Why do the first years of teaching feel so hard?",
+      "summary_question": "Why do the first years of teaching feel so hard?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1466595882602688521",
+      "date": "2021-12-03",
+      "text": "#KostasThoughts : When applying for a faculty position in North America, do not include your photo, marital status or age in your cover letter or CV.",
+      "url": "https://x.com/CSProfKGD/status/1466595882602688521?s=20",
+      "title": "What should faculty applicants leave out of a CV?",
+      "summary_question": "What should faculty applicants leave out of a CV?",
+      "topic": "Academia & Faculty Life",
+      "subtopic": null
+    },
+    {
+      "id": "1456043927564439557",
+      "date": "2021-11-03",
+      "text": "#KostasThoughts : Frankly, I’m still shocked when I hear about profs permanently leaving academia for industry. Yes, I need to recalibrate my world view.",
+      "url": "https://x.com/CSProfKGD/status/1456043927564439557?s=20",
+      "title": "How should academics recalibrate around industry moves?",
+      "summary_question": "How should academics recalibrate around industry moves?",
+      "topic": "Academia & Faculty Life",
+      "subtopic": null
+    },
+    {
+      "id": "1448400057397547012",
+      "date": "2021-10-13",
+      "text": "#KostasThoughts : A major problem with online conferences, you can’t tell your family “Ignore me for the day.”",
+      "url": "https://x.com/CSProfKGD/status/1448400057397547012?s=20",
+      "title": "What makes online conferences hard to separate from home life?",
+      "summary_question": "What makes online conferences hard to separate from home life?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1447250155531653121",
+      "date": "2021-10-10",
+      "text": "#KostasThoughts : As reviewers, it's easy (sometimes lazy) to punt a promising, borderline #computervision paper to the next conference but in many cases you have killed the paper from future publication due to the rapid developments in our area. pic.twitter.com/VjXAWBkbvp",
+      "url": "https://x.com/CSProfKGD/status/1447250155531653121?s=20",
+      "title": "How can peer review become more useful and fair?",
+      "summary_question": "How can peer review become more useful and fair?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1442917004449497090",
+      "date": "2021-09-28",
+      "text": "#KostasThoughts : Here is a not too uncommon snippet from an old review I handled. This is NOT OK. Please take the time to contextualize your recommendations rather than leave it in the AC's hands to guess the relative weights you put on the cited weaknesses. pic.twitter.com/3j4sn6gLdY",
+      "url": "https://x.com/CSProfKGD/status/1442917004449497090?s=20",
+      "title": "Why should reviewers contextualize their recommendations?",
+      "summary_question": "Why should reviewers contextualize their recommendations?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "1778855500051783874",
+      "date": "2024-04-12",
+      "text": "Early storyboarding exercise for my new lecture on flow matching 😅 https://t.co/QAf9cvphhi pic.twitter.com/bAPcvOAxHc",
+      "url": "https://x.com/CSProfKGD/status/1778855500051783874?s=20",
+      "title": "How can storyboarding help design a new lecture?",
+      "summary_question": "How can storyboarding help design a new lecture?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1809343103859331112",
+      "date": "2024-07-05",
+      "text": "#GenAI is a game changer for prezis. This prezi includes a couple of images created with @ideogram_ai ❤️ Also used Adobe Photoshop’s generative model to outpaint the borders of the intro image to bleed into slide borders. https://t.co/nJgu7mtUVr",
+      "url": "https://x.com/CSProfKGD/status/1809343103859331112?s=20",
+      "title": "How is AI changing academic and presentation workflows?",
+      "summary_question": "How is AI changing academic and presentation workflows?",
+      "topic": "AI & Tools",
+      "subtopic": null
+    },
+    {
+      "id": "1754559185503580246",
+      "date": "2024-02-05",
+      "text": "I remember seeing backprop as a senior in undergrad in the late 90s, frankly I couldn’t follow. Much of the prezi was tied to a specific architecture with sigmoids. It was only years later when I saw the modular approach did it make sense! pic.twitter.com/PJrAtq16hF",
+      "url": "https://x.com/CSProfKGD/status/1754559185503580246?s=20",
+      "title": "Why can a modular view make backprop easier to understand?",
+      "summary_question": "Why can a modular view make backprop easier to understand?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1625852470705680388",
+      "date": "2023-02-15",
+      "text": "In the case of a slide with code, I use a semi-transparent overlay to focus my audience's attention on the code I am currently talking about but keep the surrounding code semi-visible to provide context. Also it is important to keep the code at a readable size! https://t.co/f8xJhXJLXN pic.twitter.com/kGyFyA3jb4",
+      "url": "https://x.com/CSProfKGD/status/1625852470705680388?s=20",
+      "title": "How can slide design guide audience attention?",
+      "summary_question": "How can slide design guide audience attention?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1616887949500551174",
+      "date": "2023-01-21",
+      "text": "Most watch Apple’s Keynotes for product announcements. I watch them for prezi ideas 🤓",
+      "url": "https://x.com/CSProfKGD/status/1616887949500551174?s=20",
+      "title": "What can presenters learn from Apple keynotes?",
+      "summary_question": "What can presenters learn from Apple keynotes?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1575112742041591810",
+      "date": "2022-09-28",
+      "text": "Some of the prezi techniques I use to draw the attention of my audience. We teach this in #computervision in our units on perceptual organization, let's actively use them! https://t.co/7gNbkri3Kc",
+      "url": "https://x.com/CSProfKGD/status/1575112742041591810?s=20",
+      "title": "How can perceptual organization improve presentations?",
+      "summary_question": "How can perceptual organization improve presentations?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1571526919442628608",
+      "date": "2022-09-18",
+      "text": "Great example by @presentationzen about leveraging visuals in your prezis. (left) Image still from Star Wars IV before attack on Death Star. (right) Same prezi delivered with standard slideware templates 🤓 Source: https://t.co/o7tfLdv4Hw pic.twitter.com/BurVlizKNs",
+      "url": "https://x.com/CSProfKGD/status/1571526919442628608?s=20",
+      "title": "How can visuals transform a standard slide?",
+      "summary_question": "How can visuals transform a standard slide?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1566089604419174401",
+      "date": "2022-09-03",
+      "text": "My Saturday morning: 1 projector now working, 1 still down 😬 I am not a fan of dual display prezi setups (left) but LOVE having the slide view available at the back of the room (right) so that I can maintain eye contact with the audience. https://t.co/KYDXH4cHCO pic.twitter.com/S9ULwDNAlY",
+      "url": "https://x.com/CSProfKGD/status/1566089604419174401?s=20",
+      "title": "How can slide design guide audience attention?",
+      "summary_question": "How can slide design guide audience attention?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1449040882267836419",
+      "date": "2021-10-15",
+      "text": "You know it’s time for a new laptop when the MacOS spin wheel appears regularly while going through your Keynote prezi 🤨 pic.twitter.com/MmqOZFUVfS",
+      "url": "https://x.com/CSProfKGD/status/1449040882267836419?s=20",
+      "title": "When is it time to replace a presentation laptop?",
+      "summary_question": "When is it time to replace a presentation laptop?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "2037409672014209481",
+      "date": "2026-03-27",
+      "text": "Got a lot of positive feedback on my talk at #FoMo2026 The starting point on my journey to better presentations was Presentation Zen by @presentationzen ❤️ MUST read for those looking to improve their prezis! https://t.co/yraMvRjO0R pic.twitter.com/SFPLEtPFW9",
+      "url": "https://x.com/CSProfKGD/status/2037409672014209481?s=20",
+      "title": "What book can help improve presentations?",
+      "summary_question": "What book can help improve presentations?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "2022716307569778764",
+      "date": "2026-02-14",
+      "text": "When it comes to giving me presentation feedback, my students are the toughest critics. Typical comment: \"It would be cool if you could ...\" 😅 Happy @JasonYujjyu @MatthewKowal9 @HThasarathan @FereshtForghani !?!?! Before vs After pic.twitter.com/3EIsosw9Wj",
+      "url": "https://x.com/CSProfKGD/status/2022716307569778764?s=20",
+      "title": "Why are students often the toughest presentation critics?",
+      "summary_question": "Why are students often the toughest presentation critics?",
+      "topic": "Mentoring & Students",
+      "subtopic": null
+    },
+    {
+      "id": "1953211101568729246",
+      "date": "2025-08-06",
+      "text": "Stress levels of a PhD during their dissertation defence 😬 Stress peaked at 11:02am, right as the oral presentation began. The longest stretch of high stress came at the start of the question period. The supervisor’s wasn’t much different 😉 https://t.co/m6NtSxCs1K pic.twitter.com/mg4CrdAXIM",
+      "url": "https://x.com/CSProfKGD/status/1953211101568729246?s=20",
+      "title": "What does dissertation defense stress look like?",
+      "summary_question": "What does dissertation defense stress look like?",
+      "topic": "Mentoring & Students",
+      "subtopic": null
+    },
+    {
+      "id": "2037409261429653829",
+      "date": "2026-03-27",
+      "text": "#KostasKeynoteLessons: Still curious about the \"Keynote magic\" behind my slides?\n\nCheck out the full Keynote source files for my lectures on\n\nFlow Matching\nGaussian Splatting\nTransformers\n\nGrab the files in the thread and feel free to remix.",
+      "url": "https://x.com/CSProfKGD/status/2037409261429653829?s=20",
+      "title": "Curious about the \"Keynote magic\" behind my slides?",
+      "summary_question": "Curious about the \"Keynote magic\" behind my slides?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1912886681247641855",
+      "date": "2025-04-17",
+      "text": "#KostasKeynoteLessons : How’d you do that? ✨Pro tip: Animations should guide attention or support the visual. Otherwise, you're just demoing your slideware and it gets tiresome fast. Keynote link in thread 👇 pic.twitter.com/yQcyQOcCFT",
+      "url": "https://x.com/CSProfKGD/status/1912886681247641855?s=20",
+      "title": "When do animations help rather than distract?",
+      "summary_question": "When do animations help rather than distract?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "1761104143731626189",
+      "date": "2024-02-23",
+      "text": "#KostasKeynoteLessons : Curious about the \"magic\" behind my prezis? I'm thinking of starting a periodic post series of Keynote tips and tricks. Let's give it a try. Check out the thread below for a link to a Keynote file that combines a LaTeX equation with magic move (morph… pic.twitter.com/96ZbN8VlHr",
+      "url": "https://x.com/CSProfKGD/status/1761104143731626189?s=20",
+      "title": "How can Keynote tricks make presentations feel more polished?",
+      "summary_question": "How can Keynote tricks make presentations feel more polished?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    }
+  ]
+}

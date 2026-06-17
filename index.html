@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>#KostasThoughts</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="topbar" aria-label="Primary">
+        <div class="top-actions">
+          <a class="homepage-link" href="https://x.com/CSProfKGD" rel="noreferrer">CSProfKGD</a>
+          <div class="count-pill" id="post-count">Loading...</div>
+        </div>
+      </nav>
+      <section class="hero">
+        <h1>#KostasThoughts</h1>
+        <p>CSProfKGD's collected thoughts on research, teaching, academia, AI, productivity, and life.</p>
+      </section>
+      <section class="profile" aria-label="About Konstantinos Derpanis">
+        <div class="profile-intro">
+          <img class="profile-photo" src="assets/prof_pic-2.jpg" alt="Konstantinos (Kosta) Derpanis">
+          <div>
+            <h2>Konstantinos (Kosta) Derpanis</h2>
+            <p class="profile-kicker">Associate Professor. CS. Computer Vision. Machine Learning.</p>
+            <a class="academic-link" href="https://csprofkgd.github.io" rel="noreferrer">Academic webpage</a>
+          </div>
+        </div>
+        <div class="profile-copy">
+          <p>
+            I am an Associate Professor in the
+            <a href="http://eecs.lassonde.yorku.ca/" rel="noreferrer">Department of Electrical Engineering and Computer Science</a>
+            at <a href="https://www.yorku.ca/" rel="noreferrer">York University</a>, Toronto, Canada.
+            I am also a <a href="https://vectorinstitute.ai/" rel="noreferrer">Vector Institute</a> Faculty Affiliate and an ELLIS Member.
+            I am currently serving as an Associate Editor for the
+            <a href="https://www.computer.org/csdl/journal/tp" rel="noreferrer">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>
+            (TPAMI) and will serve as a Program Chair for IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2028.
+          </p>
+          <p><strong>Research Interests:</strong> My main interests are computer vision, deep learning, generative AI, and interpretability.</p>
+        </div>
+      </section>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="Archive controls">
+        <label class="search-wrap">
+          <span>Search</span>
+          <input id="search-input" type="search" placeholder="Search posts" autocomplete="off">
+        </label>
+
+        <label class="select-wrap">
+          <span>Sort</span>
+          <select id="sort-select">
+            <option value="newest">Newest first</option>
+            <option value="oldest">Oldest first</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="topic-strip" id="topic-filters" aria-label="Topic filters"></section>
+
+      <section class="results-summary" aria-live="polite" id="results-summary"></section>
+      <section class="posts" id="posts-container"></section>
+    </main>
+
+    <footer class="footer">
+      <p>Local offline archive generated from the read-only source text file.</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
