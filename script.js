@@ -92,6 +92,7 @@ function escapeHtml(value) {
 
 function bodyText(post) {
   return String(post.text || "")
+    .replace(/\bSource:\s*/gi, "")
     .replace(/https?:\/\/\S+/g, "")
     .replace(/pic\.twitter\.com\/\S+/g, "")
     .replace(/\s+/g, " ")
