@@ -21,7 +21,7 @@ ADDITIONAL_TWEET_URLS = [
     "https://x.com/CSProfKGD/status/2067935592361369920?s=20",
 ]
 QUESTION_OVERRIDES = {
-    "2067935592361369920": "How is academic research now both GPU- and token-constrained?",
+    "2067935592361369920": "What does academic research look like in 2026?",
     "2037416736904052837": "How should images and videos bleed beyond slide boundaries?",
     "2037409261429653829": "Curious about the \"Keynote magic\" behind my slides?",
     "2035331378582093998": "How will LLM agents change the way newcomers learn research?",

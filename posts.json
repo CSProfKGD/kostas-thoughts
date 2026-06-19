@@ -1,6 +1,6 @@
 {
   "source": "kostas thoughts.txt",
-  "generated_at": "2026-06-19T13:39:20+00:00",
+  "generated_at": "2026-06-19T13:44:33+00:00",
   "post_count": 123,
   "notes": [
     "Input was treated as read-only.",
@@ -1235,8 +1235,8 @@
       "date": "2026-06-19",
       "text": "The face of academic research in 2026: always GPU-constrained, and now token-constrained too. 🤦 pic.twitter.com/MDJ5Ky4v4m",
       "url": "https://x.com/CSProfKGD/status/2067935592361369920?s=20",
-      "title": "How is academic research now both GPU- and token-constrained?",
-      "summary_question": "How is academic research now both GPU- and token-constrained?",
+      "title": "What does academic research look like in 2026?",
+      "summary_question": "What does academic research look like in 2026?",
       "topic": "AI & Tools",
       "subtopic": null
     }
