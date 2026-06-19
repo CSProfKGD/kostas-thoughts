@@ -1,6 +1,6 @@
 {
-  "source": "/Users/kosta/Documents/Codex/Kostas Thoughts/kostas thoughts.txt",
-  "fetched_count": 120,
+  "source": "kostas thoughts.txt",
+  "fetched_count": 121,
   "error_count": 2,
   "tweets": {
     "2064741250062746029": {
@@ -842,6 +842,13 @@
       "author_url": "https://x.com/CSProfKGD",
       "text": "#KostasKeynoteLessons : Curious about the \"magic\" behind my prezis? I'm thinking of starting a periodic post series of Keynote tips and tricks. Let's give it a try. Check out the thread below for a link to a Keynote file that combines a LaTeX equation with magic move (morph… pic.twitter.com/96ZbN8VlHr",
       "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasKeynoteLessons?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasKeynoteLessons</a>:  Curious about the &quot;magic&quot; behind my prezis?  I&#39;m thinking of starting a periodic post series of Keynote tips and tricks.  Let&#39;s give it a try.<br><br>Check out the thread below for a link to a Keynote file that combines a LaTeX equation with magic move (morph… <a href=\"https://t.co/96ZbN8VlHr\">pic.twitter.com/96ZbN8VlHr</a></p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/1761104143731626189?ref_src=twsrc%5Etfw\">February 23, 2024</a></blockquote>\n\n"
+    },
+    "2067935592361369920": {
+      "url": "https://x.com/CSProfKGD/status/2067935592361369920?s=20",
+      "author_name": "Kosta Derpanis (sabbatical in Zurich)",
+      "author_url": "https://x.com/CSProfKGD",
+      "text": "The face of academic research in 2026: always GPU-constrained, and now token-constrained too. 🤦 pic.twitter.com/MDJ5Ky4v4m",
+      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The face of academic research in 2026: always GPU-constrained, and now token-constrained too. 🤦 <a href=\"https://t.co/MDJ5Ky4v4m\">pic.twitter.com/MDJ5Ky4v4m</a></p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/2067935592361369920?ref_src=twsrc%5Etfw\">June 19, 2026</a></blockquote>\n\n"
     }
   },
   "errors": {

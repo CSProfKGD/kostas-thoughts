@@ -17,6 +17,9 @@ from pathlib import Path
 DEFAULT_INPUT_FILE = Path("kostas thoughts.txt")
 CACHE_FILE = Path("tweet_cache.json")
 STATUS_RE = re.compile(r"https?://(?:x|twitter)\.com/[^/\s]+/status/(\d+)(?:\?[^\s]*)?", re.I)
+ADDITIONAL_TWEET_URLS = [
+    "https://x.com/CSProfKGD/status/2067935592361369920?s=20",
+]
 
 
 class ParagraphParser(HTMLParser):
@@ -42,7 +45,7 @@ def load_urls(input_file: Path) -> list[tuple[str, str]]:
     raw = input_file.read_text(encoding="utf-8")
     urls: list[tuple[str, str]] = []
     seen: set[str] = set()
-    for block in re.split(r"\n\s*\n", raw):
+    for block in [*re.split(r"\n\s*\n", raw), *ADDITIONAL_TWEET_URLS]:
         entry = block.strip()
         if not entry:
             continue

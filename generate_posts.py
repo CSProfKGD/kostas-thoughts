@@ -17,7 +17,11 @@ STATUS_RE = re.compile(r"https?://(?:x|twitter)\.com/[^/\s]+/status/(\d+)(?:\?[^
 URL_RE = re.compile(r"https?://\S+")
 HASHTAG_RE = re.compile(r"#\w+")
 MENTION_RE = re.compile(r"@\w+")
+ADDITIONAL_TWEET_URLS = [
+    "https://x.com/CSProfKGD/status/2067935592361369920?s=20",
+]
 QUESTION_OVERRIDES = {
+    "2067935592361369920": "How is academic research now both GPU- and token-constrained?",
     "2037416736904052837": "How should images and videos bleed beyond slide boundaries?",
     "2037409261429653829": "Curious about the \"Keynote magic\" behind my slides?",
     "2035331378582093998": "How will LLM agents change the way newcomers learn research?",
@@ -77,6 +81,7 @@ QUESTION_OVERRIDES = {
     "1471158646847516674": "How can academic Twitter enrich teaching?",
 }
 TOPIC_OVERRIDES = {
+    "2067935592361369920": "AI & Tools",
     "2037416736904052837": "Teaching & Presentations",
     "2037409261429653829": "Teaching & Presentations",
     "2029603806753743093": "Research Practice",
@@ -265,6 +270,7 @@ def parse_posts(input_file: Path) -> list[dict[str, str | None]]:
     raw = input_file.read_text(encoding="utf-8")
     cache = load_cache()
     entries = [block.strip() for block in re.split(r"\n\s*\n", raw) if block.strip()]
+    entries.extend(ADDITIONAL_TWEET_URLS)
     posts = []
     seen: set[str] = set()
 

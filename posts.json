@@ -1,7 +1,7 @@
 {
   "source": "kostas thoughts.txt",
-  "generated_at": "2026-06-17T13:14:18+00:00",
-  "post_count": 122,
+  "generated_at": "2026-06-19T13:39:20+00:00",
+  "post_count": 123,
   "notes": [
     "Input was treated as read-only.",
     "Posts were split on blank-line-separated blocks.",
@@ -1228,6 +1228,16 @@
       "title": "How can Keynote tricks make presentations feel more polished?",
       "summary_question": "How can Keynote tricks make presentations feel more polished?",
       "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "2067935592361369920",
+      "date": "2026-06-19",
+      "text": "The face of academic research in 2026: always GPU-constrained, and now token-constrained too. 🤦 pic.twitter.com/MDJ5Ky4v4m",
+      "url": "https://x.com/CSProfKGD/status/2067935592361369920?s=20",
+      "title": "How is academic research now both GPU- and token-constrained?",
+      "summary_question": "How is academic research now both GPU- and token-constrained?",
+      "topic": "AI & Tools",
       "subtopic": null
     }
   ]
