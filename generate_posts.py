@@ -19,8 +19,14 @@ HASHTAG_RE = re.compile(r"#\w+")
 MENTION_RE = re.compile(r"@\w+")
 ADDITIONAL_TWEET_URLS = [
     "https://x.com/CSProfKGD/status/2067935592361369920?s=20",
+    "https://x.com/CSProfKGD/status/2069423541200552231?s=20",
+    "https://x.com/CSProfKGD/status/2068401977088774448?s=20",
+    "https://x.com/CSProfKGD/status/2068243455063580764?s=20",
 ]
 QUESTION_OVERRIDES = {
+    "2069423541200552231": "What is the supervisor’s role beyond funding and mentoring?",
+    "2068401977088774448": "How can review transparency improve computer vision peer review?",
+    "2068243455063580764": "How can Codex help build lecture notes for a PPO lecture?",
     "2067935592361369920": "What does academic research look like in 2026?",
     "2037416736904052837": "How should images and videos bleed beyond slide boundaries?",
     "2037409261429653829": "Curious about the \"Keynote magic\" behind my slides?",
@@ -81,6 +87,9 @@ QUESTION_OVERRIDES = {
     "1471158646847516674": "How can academic Twitter enrich teaching?",
 }
 TOPIC_OVERRIDES = {
+    "2069423541200552231": "Mentoring & Students",
+    "2068401977088774448": "Peer Review & Conferences",
+    "2068243455063580764": "Teaching & Presentations",
     "2067935592361369920": "AI & Tools",
     "2037416736904052837": "Teaching & Presentations",
     "2037409261429653829": "Teaching & Presentations",

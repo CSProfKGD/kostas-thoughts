@@ -19,6 +19,9 @@ CACHE_FILE = Path("tweet_cache.json")
 STATUS_RE = re.compile(r"https?://(?:x|twitter)\.com/[^/\s]+/status/(\d+)(?:\?[^\s]*)?", re.I)
 ADDITIONAL_TWEET_URLS = [
     "https://x.com/CSProfKGD/status/2067935592361369920?s=20",
+    "https://x.com/CSProfKGD/status/2069423541200552231?s=20",
+    "https://x.com/CSProfKGD/status/2068401977088774448?s=20",
+    "https://x.com/CSProfKGD/status/2068243455063580764?s=20",
 ]
 
 

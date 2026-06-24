@@ -9,7 +9,23 @@
   --accent-strong: #0d4b60;
   --leaf: #587a45;
   --rose: #a84654;
+  --body-text: #343434;
   --shadow: 0 18px 45px rgba(39, 37, 32, 0.08);
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #17181b;
+  --paper: #222428;
+  --ink: #f1eee8;
+  --muted: #b8b2aa;
+  --line: #3b3d42;
+  --accent: #78c6dc;
+  --accent-strong: #9bd9e8;
+  --leaf: #95bd7f;
+  --rose: #d98b98;
+  --body-text: #ded9d1;
+  --shadow: 0 18px 45px rgba(0, 0, 0, 0.24);
 }
 
 * {
@@ -51,6 +67,8 @@ main,
   display: flex;
   align-items: center;
   gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
 }
 
 .homepage-link {
@@ -73,6 +91,25 @@ main,
 
 .academic-link:hover {
   text-decoration: underline;
+}
+
+.theme-toggle {
+  min-height: 34px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper);
+  color: var(--accent-strong);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 700;
+  padding: 6px 12px;
+}
+
+.theme-toggle:focus-visible {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(23, 107, 135, 0.16);
+  outline: none;
 }
 
 .count-pill {
@@ -197,7 +234,7 @@ select:focus,
 .topic-button {
   border: 1px solid var(--line);
   border-radius: 999px;
-  background: rgba(255, 253, 248, 0.78);
+  background: var(--paper);
   color: var(--ink);
   cursor: pointer;
   font: inherit;
@@ -290,7 +327,7 @@ select:focus,
 
 .post-text {
   margin: 4px 0 0;
-  color: #343434;
+  color: var(--body-text);
   font-size: 0.96rem;
   overflow-wrap: anywhere;
   white-space: pre-wrap;

@@ -26,6 +26,7 @@ const els = {
   filters: document.querySelector("#topic-filters"),
   summary: document.querySelector("#results-summary"),
   posts: document.querySelector("#posts-container"),
+  themeToggle: document.querySelector("#theme-toggle"),
 };
 
 function normalize(value) {
@@ -90,13 +91,28 @@ function escapeHtml(value) {
     .replaceAll("'", "&#039;");
 }
 
+function cleanThoughtText(text) {
+  return String(text || "").replace(/^\s*#kostasthoughts\s*:?\s*/i, "").trim();
+}
+
 function bodyText(post) {
-  return String(post.text || "")
+  const text = String(post.text || "")
     .replace(/\bSource:\s*/gi, "")
     .replace(/https?:\/\/\S+/g, "")
     .replace(/pic\.twitter\.com\/\S+/g, "")
     .replace(/\s+/g, " ")
     .trim();
+  return cleanThoughtText(text);
+}
+
+function applyTheme(theme) {
+  const nextTheme = theme === "dark" ? "dark" : "light";
+  document.documentElement.dataset.theme = nextTheme;
+  localStorage.setItem("theme", nextTheme);
+  if (els.themeToggle) {
+    els.themeToggle.textContent = nextTheme === "dark" ? "Light mode" : "Dark mode";
+    els.themeToggle.setAttribute("aria-pressed", String(nextTheme === "dark"));
+  }
 }
 
 function renderFilters() {
@@ -192,4 +208,10 @@ els.filters.addEventListener("click", (event) => {
   update();
 });
 
+els.themeToggle?.addEventListener("click", () => {
+  const current = document.documentElement.dataset.theme;
+  applyTheme(current === "dark" ? "light" : "dark");
+});
+
+applyTheme(document.documentElement.dataset.theme);
 loadPosts();

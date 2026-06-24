@@ -1,7 +1,7 @@
 {
   "source": "kostas thoughts.txt",
-  "generated_at": "2026-06-19T13:44:33+00:00",
-  "post_count": 123,
+  "generated_at": "2026-06-24T20:34:05+00:00",
+  "post_count": 126,
   "notes": [
     "Input was treated as read-only.",
     "Posts were split on blank-line-separated blocks.",
@@ -1238,6 +1238,36 @@
       "title": "What does academic research look like in 2026?",
       "summary_question": "What does academic research look like in 2026?",
       "topic": "AI & Tools",
+      "subtopic": null
+    },
+    {
+      "id": "2069423541200552231",
+      "date": "2026-06-23",
+      "text": "#KostasThoughts : The job of a supervisor is part financial supporter, part intellectual mentor, and, most of all, part cheerleader 📣🥁 pic.twitter.com/uB0BJqNJUa",
+      "url": "https://x.com/CSProfKGD/status/2069423541200552231?s=20",
+      "title": "What is the supervisor’s role beyond funding and mentoring?",
+      "summary_question": "What is the supervisor’s role beyond funding and mentoring?",
+      "topic": "Mentoring & Students",
+      "subtopic": null
+    },
+    {
+      "id": "2068401977088774448",
+      "date": "2026-06-20",
+      "text": "#KostasThoughts : The #computervision community is behind on review transparency. Reviews and meta-reviews should be made public for accepted papers and, if authors opt in, for rejected papers as well. Transparency can be a powerful mechanism for improving review and meta-review…",
+      "url": "https://x.com/CSProfKGD/status/2068401977088774448?s=20",
+      "title": "How can review transparency improve computer vision peer review?",
+      "summary_question": "How can review transparency improve computer vision peer review?",
+      "topic": "Peer Review & Conferences",
+      "subtopic": null
+    },
+    {
+      "id": "2068243455063580764",
+      "date": "2026-06-20",
+      "text": "#KostasThoughts : Saturday morning stroll around Zurich. Been iterating on a lecture note on off-policy policy gradients with Codex, with the goal of building a lecture and accompanying notes on PPO. My courses have traditionally focused on slides, but accompanying tailored… pic.twitter.com/Ah5bRX4lWw",
+      "url": "https://x.com/CSProfKGD/status/2068243455063580764?s=20",
+      "title": "How can Codex help build lecture notes for a PPO lecture?",
+      "summary_question": "How can Codex help build lecture notes for a PPO lecture?",
+      "topic": "Teaching & Presentations",
       "subtopic": null
     }
   ]
