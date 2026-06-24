@@ -110,7 +110,7 @@ function applyTheme(theme) {
   document.documentElement.dataset.theme = nextTheme;
   localStorage.setItem("theme", nextTheme);
   if (els.themeToggle) {
-    els.themeToggle.textContent = nextTheme === "dark" ? "Light mode" : "Dark mode";
+    els.themeToggle.textContent = nextTheme === "dark" ? "☀ Light" : "☾ Dark";
     els.themeToggle.setAttribute("aria-pressed", String(nextTheme === "dark"));
   }
 }

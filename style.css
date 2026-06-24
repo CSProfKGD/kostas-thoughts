@@ -94,16 +94,16 @@ main,
 }
 
 .theme-toggle {
-  min-height: 34px;
+  min-height: 30px;
   border: 1px solid var(--line);
-  border-radius: 999px;
+  border-radius: 3px;
   background: var(--paper);
-  color: var(--accent-strong);
+  color: var(--ink);
   cursor: pointer;
-  font: inherit;
-  font-size: 0.9rem;
-  font-weight: 700;
-  padding: 6px 12px;
+  font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  line-height: 1;
+  padding: 6px 10px;
 }
 
 .theme-toggle:focus-visible {
