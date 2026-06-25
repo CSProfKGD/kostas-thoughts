@@ -194,17 +194,28 @@ function setupCollapsiblePosts() {
     button.textContent = "Read more →";
     button.setAttribute("aria-expanded", "false");
 
-    const style = window.getComputedStyle(text);
-    const lineHeight = Number.parseFloat(style.lineHeight);
-    const fontSize = Number.parseFloat(style.fontSize);
-    const resolvedLineHeight = Number.isFinite(lineHeight) ? lineHeight : fontSize * 1.55;
-    const collapsedHeight = resolvedLineHeight * collapsedLineCount;
-
-    if (body.scrollHeight > collapsedHeight + 2) {
+    if (renderedLineCount(text) > collapsedLineCount) {
       card.classList.add("is-collapsible");
       button.hidden = false;
     }
   });
+}
+
+function renderedLineCount(element) {
+  const range = document.createRange();
+  range.selectNodeContents(element);
+  const tops = [...range.getClientRects()].map((rect) => Math.round(rect.top));
+  range.detach();
+
+  if (tops.length > 0) {
+    return new Set(tops).size;
+  }
+
+  const style = window.getComputedStyle(element);
+  const lineHeight = Number.parseFloat(style.lineHeight);
+  const fontSize = Number.parseFloat(style.fontSize);
+  const resolvedLineHeight = Number.isFinite(lineHeight) ? lineHeight : fontSize * 1.55;
+  return Math.ceil(element.scrollHeight / resolvedLineHeight);
 }
 
 function queueCollapsibleRefresh() {

@@ -376,6 +376,10 @@ select:focus,
   padding: 0;
 }
 
+.read-toggle[hidden] {
+  display: none;
+}
+
 .read-toggle:hover {
   text-decoration: underline;
 }
