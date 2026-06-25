@@ -1,6 +1,6 @@
 {
   "source": "kostas thoughts.txt",
-  "generated_at": "2026-06-24T20:34:05+00:00",
+  "generated_at": "2026-06-25T00:02:35+00:00",
   "post_count": 126,
   "notes": [
     "Input was treated as read-only.",
@@ -23,7 +23,7 @@
     {
       "id": "2064685553954509262",
       "date": "2026-06-10",
-      "text": "#KostasThoughts : One of my goals this fall is to get back into my home studio, start recording lectures, and share them publicly. At this point, creating lecture slides and giving in-person lectures come fairly easily. Recording and editing lectures, however, still feels… https://t.co/D2uUblNj9k pic.twitter.com/wkh0mZ4Z2A",
+      "text": "#KostasThoughts: One of my goals this fall is to get back into my home studio, start recording lectures, and share them publicly.  At this point, creating lecture slides and giving in-person lectures come fairly easily.  Recording and editing lectures, however, still feels daunting 😬\n\n@jbhuang0604 has been a major inspiration.  I really enjoy his online lecture series. Top-quality content 💪\n\nCheck out his YouTube channel!",
       "url": "https://x.com/CSProfKGD/status/2064685553954509262?s=20",
       "title": "How can recorded lectures become useful public teaching resources?",
       "summary_question": "How can recorded lectures become useful public teaching resources?",
@@ -33,7 +33,7 @@
     {
       "id": "2064682482876747861",
       "date": "2026-06-10",
-      "text": "#KostasThoughts : Someone recently asked me about automating slide creation. For me, creating slides is part of the learning process. Breaking a topic into its building blocks and putting it back together helps me understand it. I hope my students learn from the lecture, but I… https://t.co/D2uUblNj9k",
+      "text": "#KostasThoughts: Someone recently asked me about automating slide creation.  For me, creating slides is part of the learning process.  Breaking a topic into its building blocks and putting it back together helps me understand it.\n\nI hope my students learn from the lecture, but I learn a great deal through the creation (and presenting) process as well.\n\nThat said, I have started using automated tools for ideation, evaluating my slide compositions, and generating images and videos.\n\nTLDR: If I don’t understand it, I won’t present it.",
       "url": "https://x.com/CSProfKGD/status/2064682482876747861?s=20",
       "title": "Why can making slides be part of learning the material?",
       "summary_question": "Why can making slides be part of learning the material?",
@@ -63,7 +63,7 @@
     {
       "id": "2064009179539427834",
       "date": "2026-06-08",
-      "text": "#KostasThoughts : I’ve been thinking about the criteria for award-winning papers 🏆 They should embody what our community values most: originality, potential impact, and reproducibility. Yet (full) reproducibility is often missing, even among award-winning papers. Making code and…",
+      "text": "#KostasThoughts: I’ve been thinking about the criteria for award-winning papers 🏆 They should embody what our community values most: originality, potential impact, and reproducibility. Yet (full) reproducibility is often missing, even among award-winning papers.\n\nMaking code and model weights publicly available should be a criterion for award consideration. This would send a strong signal to decision-makers in both academia and industry about the importance of open and reproducible research.\n\nPapers would receive the recognition they deserve, while the community would gain a deeper understanding of the engineering innovations that drive performance.\n\nThoughts?",
       "url": "https://x.com/CSProfKGD/status/2064009179539427834?s=20",
       "title": "What should award-winning papers demonstrate?",
       "summary_question": "What should award-winning papers demonstrate?",
@@ -93,7 +93,7 @@
     {
       "id": "2055257932955009052",
       "date": "2026-05-15",
-      "text": "#KostasThoughts : While consensus among reviewers is appreciated, it is not strictly necessary. As an Area Chair, what matters most is understanding each reviewer’s reasoning and decision-making process. That is why it is imperative that reviewers provide a clear final summary… https://t.co/yDghx0yYi2",
+      "text": "#KostasThoughts: While consensus among reviewers is appreciated, it is not strictly necessary. As an Area Chair, what matters most is understanding each reviewer’s reasoning and decision-making process. That is why it is imperative that reviewers provide a clear final summary explaining why they recommend accepting or rejecting the paper, which concerns were addressed through the rebuttal and discussion, and which concerns, if any, remain unresolved.  Simply putting “my concerns were not resolved” is not being a responsible reviewer.\n\nIf you initially misunderstood parts of the paper or made an error in your assessment, that’s okay we all make mistakes. Please put personal ego aside and focus on making the correct decision based on the technical merits of the paper, the rebuttal, and the discussion.",
       "url": "https://x.com/CSProfKGD/status/2055257932955009052?s=20",
       "title": "What should area chairs look for in reviewer reasoning?",
       "summary_question": "What should area chairs look for in reviewer reasoning?",
@@ -173,7 +173,7 @@
     {
       "id": "2035331378582093998",
       "date": "2026-03-21",
-      "text": "#KostasThoughts : The LLM-agentic approach to research is a paradigm shift, especially for those fluent in the “dark arts” of handcrafted research. But what about newcomers? Do they struggle without that foundation, or move faster because they are not constrained by it? Does… https://t.co/pohepmr53t",
+      "text": "#KostasThoughts: The LLM-agentic approach to research is a paradigm shift, especially for those fluent in the “dark arts” of handcrafted research.\n\nBut what about newcomers? Do they struggle without that foundation, or move faster because they are not constrained by it?\n\nDoes speed trump depth? 🤔\n\nGreat podcast on this rapidly evolving shift.",
       "url": "https://x.com/CSProfKGD/status/2035331378582093998?s=20",
       "title": "How will LLM agents change the way newcomers learn research?",
       "summary_question": "How will LLM agents change the way newcomers learn research?",
@@ -253,7 +253,7 @@
     {
       "id": "2019512062024773954",
       "date": "2026-02-05",
-      "text": "#KostasThoughts : Like many others, I used to cram too many images or videos onto one slide. They end up too small, the audience doesn’t know where to look, and you rush through them. My rule now: one idea or example per slide. Slides are free, use them. Here's a comparison:… pic.twitter.com/thcVMOlRD2",
+      "text": "#KostasThoughts: Like many others, I used to cram too many images or videos onto one slide.  They end up too small, the audience doesn’t know where to look, and you rush through them.  My rule now: one idea or example per slide.  Slides are free, use them.\n\nHere's a comparison: (left) cramming examples, and (right) letting each example breathe on its own slide.  \n\nWhich do you prefer?",
       "url": "https://x.com/CSProfKGD/status/2019512062024773954?s=20",
       "title": "How can slide design guide audience attention?",
       "summary_question": "How can slide design guide audience attention?",
@@ -283,7 +283,7 @@
     {
       "id": "1994443941421195411",
       "date": "2025-11-28",
-      "text": "#KostasThoughts : The #ICLR2026 review process has been disappointing. This is not on the PCs. It reflects our current environment where the scale of reviewing across the various conferences may have outgrown the bandwidth of the community (eg shortcuts via LLM generated reviews)…",
+      "text": "#KostasThoughts: The #ICLR2026 review process has been disappointing. This is not on the PCs. It reflects our current environment where the scale of reviewing across the various conferences may have outgrown the bandwidth of the community (eg shortcuts via LLM generated reviews) and where some feel pressured enough to lose sight of basic ethics (eg reports of authors contacting reviewers to change their score or much worse if social media reports are to be believed).\n\nPerhaps it is time to rethink our conference culture.\n\nShare your thoughts in thread.",
       "url": "https://x.com/CSProfKGD/status/1994443941421195411?s=20",
       "title": "What makes a review process disappointing?",
       "summary_question": "What makes a review process disappointing?",
@@ -293,7 +293,7 @@
     {
       "id": "1991929937020830002",
       "date": "2025-11-21",
-      "text": "#KostasThoughts : A prof’s email is not an admissions portal! Many prospective students copy-and-paste their statement of purpose or use a generic template (sometimes LLM-generated) and add a line or two about the prof’s broad research area and random paper from the professor’s…",
+      "text": "#KostasThoughts: A prof’s email is not an admissions portal! Many prospective students copy-and-paste their statement of purpose or use a generic template (sometimes LLM-generated) and add a line or two about the prof’s broad research area and random paper from the professor’s website. Emails like this rarely get attention.\n\nInstead, keep the email short, personalised, and focused; attach your CV.  Show how your background and goals genuinely connect to the prof’s current research trajectory.  Personalizing the email is important if you want to improve your chances.\n\nThe email is meant to be an icebreaker. If the prof is actively looking for students and their interest is piqued, they will reply.\n\nAlways begin formally: “Dear Professor <Last name>.” All my students, including undergrads, call me “Kosta”, but not every prof prefers that. Stay formal until invited otherwise.\n\nGood luck!",
       "url": "https://x.com/CSProfKGD/status/1991929937020830002?s=20",
       "title": "How can researchers improve the way they communicate work?",
       "summary_question": "How can researchers improve the way they communicate work?",
@@ -323,11 +323,11 @@
     {
       "id": "1922401234348073114",
       "date": "2025-05-13",
-      "text": "#KostasThoughts : A common issue I see in the “related work” section of many papers is that they list similar prior work without clearly contextualizing their own contributions. The goal of this section is not just to cite related methods, but to compare and contrast them,…",
+      "text": "#KostasThoughts:  A common issue I see in the “related work” section of many papers is that they list similar prior work without clearly contextualizing their own contributions.  The goal of this section is not just to cite related methods, but to compare and contrast them, highlighting how your approach differs and what advantages it offers.\n\nBefore complaining that the reviewers didn’t understand your contributions, take another look at your related work section, that’s where the disconnect happens many times.",
       "url": "https://x.com/CSProfKGD/status/1922401234348073114?s=20",
       "title": "How should related work contextualize a paper's contribution?",
       "summary_question": "How should related work contextualize a paper's contribution?",
-      "topic": "Research Practice",
+      "topic": "Peer Review & Conferences",
       "subtopic": null
     },
     {
@@ -343,7 +343,7 @@
     {
       "id": "1922275723298955669",
       "date": "2025-05-13",
-      "text": "#KostasThoughts : Struggling to understand parts of a paper you are reviewing? That’s valuable feedback to the authors! I suspect some worry they’ll be judged for not fully grasping every detail. It’s OK to admit you don’t understand something, better yet it’s even more… https://t.co/M0rP98a4ws",
+      "text": "#KostasThoughts: Struggling to understand parts of a paper you are reviewing?  That’s valuable feedback to the authors!   I suspect some worry they’ll be judged for not fully grasping every detail.  It’s OK to admit you don’t understand something, better yet it’s even more valuable to the authors to walk them through what you think is going on.\n\nIf you’re outsourcing your reviews to an LLM, you’re not only cheating the authors out of that insight, you might also introduce inaccuracies into the process.  \n\nAuthors deserve your honest, unfiltered feedback, even if it’s imperfectly worded.",
       "url": "https://x.com/CSProfKGD/status/1922275723298955669?s=20",
       "title": "How can peer review become more useful and fair?",
       "summary_question": "How can peer review become more useful and fair?",
@@ -513,7 +513,7 @@
     {
       "id": "1839690270234890626",
       "date": "2024-09-27",
-      "text": "#KostasThoughts : I’ve never been invited to give a workshop talk about my research. Admittedly, I have broad interests. So while I’m known through my X account, and we consistently publish, not sure most can attach me to a particular research area. My takeaway: At least as…",
+      "text": "#KostasThoughts:  I’ve never been invited to give a workshop talk about my research.  Admittedly, I have broad interests.  So while I’m known through my X account, and we consistently publish, not sure most can attach me to a particular research area. \n\nMy takeaway: At least as an early researcher, be narrow and focused on a particular research topic, a body of work others will recognize you for.",
       "url": "https://x.com/CSProfKGD/status/1839690270234890626?s=20",
       "title": "How can broad researchers make their work easier to recognize?",
       "summary_question": "How can broad researchers make their work easier to recognize?",
@@ -543,7 +543,7 @@
     {
       "id": "1755622712272130320",
       "date": "2024-02-08",
-      "text": "#KostasThoughts : For those jr researchers on the faculty market, be on the lookout for the culture in the department/university. A good one can propel your research program and growth forward, a bad one can stunt your progress. Cultures evolve very slowly in academia, don’t…",
+      "text": "#KostasThoughts:  For those jr researchers on the faculty market, be on the lookout for the culture in the department/university.  A good one can propel your research program and growth forward, a bad one can stunt your progress.  Cultures evolve very slowly in academia, don’t expect it to change quickly, as much as you and others may try.  Good luck!",
       "url": "https://x.com/CSProfKGD/status/1755622712272130320?s=20",
       "title": "What should faculty keep in mind about academic life?",
       "summary_question": "What should faculty keep in mind about academic life?",
@@ -573,7 +573,7 @@
     {
       "id": "1751684843677610068",
       "date": "2024-01-28",
-      "text": "#KostasThoughts : Program chairs can’t anticipate all issues. One needs a lawyer to anticipate some of them. Be understanding and patient. In cases where issues arise, the PCs’ goal is to come up with a just decision while balancing fairness for all submissions. Be patient,…",
+      "text": "#KostasThoughts: Program chairs can’t anticipate all issues.  One needs a lawyer to anticipate some of them.  Be understanding and patient.  In cases where issues arise, the PCs’ goal is to come up with a just decision while balancing fairness for all submissions.  \n\nBe patient, as decisions take time and there are a host of other issues to attend to.  You may have one or a few papers, the PCs for major conferences are handling thousands of papers, a career and family.",
       "url": "https://x.com/CSProfKGD/status/1751684843677610068?s=20",
       "title": "How should authors respond when conference issues arise?",
       "summary_question": "How should authors respond when conference issues arise?",
@@ -583,17 +583,17 @@
     {
       "id": "1751663818235682951",
       "date": "2024-01-28",
-      "text": "#KostasThoughts : Being a program co-chair this past #WACV2024 exposed me to many submission problems. Some issues are serious enough that they can result in a paper desk-rejection or withdraw later. Here’s a list of some common issues: - make sure all authors are registered…",
+      "text": "#KostasThoughts:  Being a program co-chair this past #WACV2024 exposed me to many submission problems.  Some issues are serious enough that they can result in a paper desk-rejection or withdraw later.  Here’s a list of some common issues:\n\n- make sure all authors are registered to paper (author additions after registration deadline are not allowed), we handled numerous emails from authors trying to get authors (eg supervisors 😔) added to paper, especially after acceptance \n\n- for industry papers, make sure you have followed your company’s submission policy, otherwise you risk having to pull the paper later by your company, this happens, most companies have a strict policy and protocol you must follow before public disclosure of work\n\n- before submitting make sure the paper meets the page limits, last minute changes can result in LaTeX pushing your text beyond the max limit, be paranoid \n\n- do not play with template fonts or margins\n\n- copying text from other papers (including from related work section) is plagiarism; conferences run a plagiarism checker \n\n@MajiSubhransu @HildeKuehne did I miss anything?",
       "url": "https://x.com/CSProfKGD/status/1751663818235682951?s=20",
       "title": "What submission problems can lead to desk rejection?",
       "summary_question": "What submission problems can lead to desk rejection?",
-      "topic": "Research Practice",
+      "topic": "Peer Review & Conferences",
       "subtopic": null
     },
     {
       "id": "1744721617232830942",
       "date": "2024-01-09",
-      "text": "#KostasThoughts : The most frustrating & nerve racking period for an area chair is the review deadline, where reviewers go missing. While reviewers missing the deadline is suboptimal, it is CRITICAL that reviewers keep their AC informed about the timeline for delivering their…",
+      "text": "#KostasThoughts:  The most frustrating & nerve racking period for an area chair is the review deadline, where reviewers go missing.  While reviewers missing the deadline is suboptimal, it is CRITICAL that reviewers keep their AC informed about the timeline for delivering their review; otherwise, your AC will have to scramble to find a suitable emergency reviewer from a limited pool.",
       "url": "https://x.com/CSProfKGD/status/1744721617232830942?s=20",
       "title": "Why should late reviewers keep area chairs informed?",
       "summary_question": "Why should late reviewers keep area chairs informed?",
@@ -1223,7 +1223,7 @@
     {
       "id": "1761104143731626189",
       "date": "2024-02-23",
-      "text": "#KostasKeynoteLessons : Curious about the \"magic\" behind my prezis? I'm thinking of starting a periodic post series of Keynote tips and tricks. Let's give it a try. Check out the thread below for a link to a Keynote file that combines a LaTeX equation with magic move (morph… pic.twitter.com/96ZbN8VlHr",
+      "text": "#KostasKeynoteLessons:  Curious about the \"magic\" behind my prezis?  I'm thinking of starting a periodic post series of Keynote tips and tricks.  Let's give it a try.\n\nCheck out the thread below for a link to a Keynote file that combines a LaTeX equation with magic move (morph transition in PowerPoint) & opacity to animate equations.",
       "url": "https://x.com/CSProfKGD/status/1761104143731626189?s=20",
       "title": "How can Keynote tricks make presentations feel more polished?",
       "summary_question": "How can Keynote tricks make presentations feel more polished?",
@@ -1253,7 +1253,7 @@
     {
       "id": "2068401977088774448",
       "date": "2026-06-20",
-      "text": "#KostasThoughts : The #computervision community is behind on review transparency. Reviews and meta-reviews should be made public for accepted papers and, if authors opt in, for rejected papers as well. Transparency can be a powerful mechanism for improving review and meta-review…",
+      "text": "#KostasThoughts: The #computervision community is behind on review transparency. Reviews and meta-reviews should be made public for accepted papers and, if authors opt in, for rejected papers as well.\n\nTransparency can be a powerful mechanism for improving review and meta-review quality. \n\n2028 is coming soon 🤔😉\n\n(Yeah, 😡 with one of our meta-reviews!)",
       "url": "https://x.com/CSProfKGD/status/2068401977088774448?s=20",
       "title": "How can review transparency improve computer vision peer review?",
       "summary_question": "How can review transparency improve computer vision peer review?",
@@ -1263,7 +1263,7 @@
     {
       "id": "2068243455063580764",
       "date": "2026-06-20",
-      "text": "#KostasThoughts : Saturday morning stroll around Zurich. Been iterating on a lecture note on off-policy policy gradients with Codex, with the goal of building a lecture and accompanying notes on PPO. My courses have traditionally focused on slides, but accompanying tailored… pic.twitter.com/Ah5bRX4lWw",
+      "text": "#KostasThoughts: Saturday morning stroll around Zurich. Been iterating on a lecture note on off-policy policy gradients with Codex, with the goal of building a lecture and accompanying notes on PPO.\n\nMy courses have traditionally focused on slides, but accompanying tailored lecture notes have often been missing simply due to lack of time. Frontier models are a game changer.\n\nSlides are for lectures. Documents are for offline reading.\n\nDon’t create slideuments (half slide, half document). They’re terrible for lectures and terrible for offline reading.",
       "url": "https://x.com/CSProfKGD/status/2068243455063580764?s=20",
       "title": "How can Codex help build lecture notes for a PPO lecture?",
       "summary_question": "How can Codex help build lecture notes for a PPO lecture?",

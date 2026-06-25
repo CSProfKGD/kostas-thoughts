@@ -16,7 +16,7 @@ from pathlib import Path
 
 DEFAULT_INPUT_FILE = Path("kostas thoughts.txt")
 CACHE_FILE = Path("tweet_cache.json")
-STATUS_RE = re.compile(r"https?://(?:x|twitter)\.com/[^/\s]+/status/(\d+)(?:\?[^\s]*)?", re.I)
+STATUS_RE = re.compile(r"https?://(?:x|twitter)\.com/([^/\s]+)/status/(\d+)(?:\?[^\s]*)?", re.I)
 ADDITIONAL_TWEET_URLS = [
     "https://x.com/CSProfKGD/status/2067935592361369920?s=20",
     "https://x.com/CSProfKGD/status/2069423541200552231?s=20",
@@ -44,9 +44,9 @@ class ParagraphParser(HTMLParser):
             self.parts.append(data)
 
 
-def load_urls(input_file: Path) -> list[tuple[str, str]]:
+def load_urls(input_file: Path) -> list[tuple[str, str, str]]:
     raw = input_file.read_text(encoding="utf-8")
-    urls: list[tuple[str, str]] = []
+    urls: list[tuple[str, str, str]] = []
     seen: set[str] = set()
     for block in [*re.split(r"\n\s*\n", raw), *ADDITIONAL_TWEET_URLS]:
         entry = block.strip()
@@ -55,11 +55,12 @@ def load_urls(input_file: Path) -> list[tuple[str, str]]:
         match = STATUS_RE.search(entry)
         if not match:
             continue
-        status_id = match.group(1)
+        username = match.group(1)
+        status_id = match.group(2)
         if status_id in seen:
             continue
         seen.add(status_id)
-        urls.append((status_id, match.group(0)))
+        urls.append((status_id, username, match.group(0)))
     return urls
 
 
@@ -84,6 +85,27 @@ def fetch_oembed(url: str) -> dict[str, str | None]:
     }
 
 
+def fetch_fxtwitter(username: str, status_id: str) -> dict[str, str | None]:
+    endpoint = f"https://api.fxtwitter.com/{username}/status/{status_id}"
+    request = urllib.request.Request(endpoint, headers={"User-Agent": "KostasThoughtsLocalArchive/1.0"})
+    with urllib.request.urlopen(request, timeout=20) as response:
+        data = json.load(response)
+    tweet = data.get("tweet") or {}
+    text = tweet.get("text") or ""
+    if not text:
+        raise ValueError("No tweet text returned")
+    return {
+        "author_name": (tweet.get("author") or {}).get("name"),
+        "author_url": f"https://x.com/{username}",
+        "text": text,
+        "html": None,
+    }
+
+
+def appears_truncated(text: str) -> bool:
+    return bool(re.search(r"…(?:\s+(?:https?://|pic\.twitter\.com)|\s*$)", text or ""))
+
+
 def main() -> None:
     import argparse
 
@@ -99,11 +121,16 @@ def main() -> None:
     errors = existing.get("errors", {})
     urls = load_urls(args.input)
 
-    for index, (status_id, url) in enumerate(urls, start=1):
-        if status_id in tweets and tweets[status_id].get("text"):
+    for index, (status_id, username, url) in enumerate(urls, start=1):
+        existing_text = tweets.get(status_id, {}).get("text")
+        if existing_text and not appears_truncated(existing_text):
             continue
         try:
-            tweets[status_id] = {"url": url, **fetch_oembed(url)}
+            try:
+                fetched = fetch_fxtwitter(username, status_id)
+            except Exception:
+                fetched = fetch_oembed(url)
+            tweets[status_id] = {"url": url, **fetched}
             errors.pop(status_id, None)
             print(f"[{index}/{len(urls)}] fetched {status_id}")
         except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, json.JSONDecodeError) as exc:

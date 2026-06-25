@@ -1,7 +1,7 @@
 {
   "source": "kostas thoughts.txt",
-  "fetched_count": 124,
-  "error_count": 2,
+  "fetched_count": 126,
+  "error_count": 0,
   "tweets": {
     "2064741250062746029": {
       "url": "https://x.com/CSProfKGD/status/2064741250062746029?s=20",
@@ -14,15 +14,15 @@
       "url": "https://x.com/CSProfKGD/status/2064685553954509262?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : One of my goals this fall is to get back into my home studio, start recording lectures, and share them publicly. At this point, creating lecture slides and giving in-person lectures come fairly easily. Recording and editing lectures, however, still feels… https://t.co/D2uUblNj9k pic.twitter.com/wkh0mZ4Z2A",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>: One of my goals this fall is to get back into my home studio, start recording lectures, and share them publicly.  At this point, creating lecture slides and giving in-person lectures come fairly easily.  Recording and editing lectures, however, still feels… <a href=\"https://t.co/D2uUblNj9k\">https://t.co/D2uUblNj9k</a> <a href=\"https://t.co/wkh0mZ4Z2A\">pic.twitter.com/wkh0mZ4Z2A</a></p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/2064685553954509262?ref_src=twsrc%5Etfw\">June 10, 2026</a></blockquote>\n\n"
+      "text": "#KostasThoughts: One of my goals this fall is to get back into my home studio, start recording lectures, and share them publicly.  At this point, creating lecture slides and giving in-person lectures come fairly easily.  Recording and editing lectures, however, still feels daunting 😬\n\n@jbhuang0604 has been a major inspiration.  I really enjoy his online lecture series. Top-quality content 💪\n\nCheck out his YouTube channel!",
+      "html": null
     },
     "2064682482876747861": {
       "url": "https://x.com/CSProfKGD/status/2064682482876747861?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : Someone recently asked me about automating slide creation. For me, creating slides is part of the learning process. Breaking a topic into its building blocks and putting it back together helps me understand it. I hope my students learn from the lecture, but I… https://t.co/D2uUblNj9k",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>: Someone recently asked me about automating slide creation.  For me, creating slides is part of the learning process.  Breaking a topic into its building blocks and putting it back together helps me understand it.<br><br>I hope my students learn from the lecture, but I… <a href=\"https://t.co/D2uUblNj9k\">https://t.co/D2uUblNj9k</a></p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/2064682482876747861?ref_src=twsrc%5Etfw\">June 10, 2026</a></blockquote>\n\n"
+      "text": "#KostasThoughts: Someone recently asked me about automating slide creation.  For me, creating slides is part of the learning process.  Breaking a topic into its building blocks and putting it back together helps me understand it.\n\nI hope my students learn from the lecture, but I learn a great deal through the creation (and presenting) process as well.\n\nThat said, I have started using automated tools for ideation, evaluating my slide compositions, and generating images and videos.\n\nTLDR: If I don’t understand it, I won’t present it.",
+      "html": null
     },
     "2064682371752898665": {
       "url": "https://x.com/CSProfKGD/status/2064682371752898665?s=20",
@@ -42,8 +42,8 @@
       "url": "https://x.com/CSProfKGD/status/2064009179539427834?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : I’ve been thinking about the criteria for award-winning papers 🏆 They should embody what our community values most: originality, potential impact, and reproducibility. Yet (full) reproducibility is often missing, even among award-winning papers. Making code and…",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>: I’ve been thinking about the criteria for award-winning papers 🏆 They should embody what our community values most: originality, potential impact, and reproducibility. Yet (full) reproducibility is often missing, even among award-winning papers.<br><br>Making code and…</p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/2064009179539427834?ref_src=twsrc%5Etfw\">June 8, 2026</a></blockquote>\n\n"
+      "text": "#KostasThoughts: I’ve been thinking about the criteria for award-winning papers 🏆 They should embody what our community values most: originality, potential impact, and reproducibility. Yet (full) reproducibility is often missing, even among award-winning papers.\n\nMaking code and model weights publicly available should be a criterion for award consideration. This would send a strong signal to decision-makers in both academia and industry about the importance of open and reproducible research.\n\nPapers would receive the recognition they deserve, while the community would gain a deeper understanding of the engineering innovations that drive performance.\n\nThoughts?",
+      "html": null
     },
     "2063884678700945896": {
       "url": "https://x.com/CSProfKGD/status/2063884678700945896?s=20",
@@ -63,8 +63,8 @@
       "url": "https://x.com/CSProfKGD/status/2055257932955009052?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : While consensus among reviewers is appreciated, it is not strictly necessary. As an Area Chair, what matters most is understanding each reviewer’s reasoning and decision-making process. That is why it is imperative that reviewers provide a clear final summary… https://t.co/yDghx0yYi2",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>: While consensus among reviewers is appreciated, it is not strictly necessary. As an Area Chair, what matters most is understanding each reviewer’s reasoning and decision-making process. That is why it is imperative that reviewers provide a clear final summary… <a href=\"https://t.co/yDghx0yYi2\">https://t.co/yDghx0yYi2</a></p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/2055257932955009052?ref_src=twsrc%5Etfw\">May 15, 2026</a></blockquote>\n\n"
+      "text": "#KostasThoughts: While consensus among reviewers is appreciated, it is not strictly necessary. As an Area Chair, what matters most is understanding each reviewer’s reasoning and decision-making process. That is why it is imperative that reviewers provide a clear final summary explaining why they recommend accepting or rejecting the paper, which concerns were addressed through the rebuttal and discussion, and which concerns, if any, remain unresolved.  Simply putting “my concerns were not resolved” is not being a responsible reviewer.\n\nIf you initially misunderstood parts of the paper or made an error in your assessment, that’s okay we all make mistakes. Please put personal ego aside and focus on making the correct decision based on the technical merits of the paper, the rebuttal, and the discussion.",
+      "html": null
     },
     "2044507813414588654": {
       "url": "https://x.com/CSProfKGD/status/2044507813414588654?s=20",
@@ -112,8 +112,8 @@
       "url": "https://x.com/CSProfKGD/status/2035331378582093998?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : The LLM-agentic approach to research is a paradigm shift, especially for those fluent in the “dark arts” of handcrafted research. But what about newcomers? Do they struggle without that foundation, or move faster because they are not constrained by it? Does… https://t.co/pohepmr53t",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>: The LLM-agentic approach to research is a paradigm shift, especially for those fluent in the “dark arts” of handcrafted research.<br><br>But what about newcomers? Do they struggle without that foundation, or move faster because they are not constrained by it?<br><br>Does… <a href=\"https://t.co/pohepmr53t\">https://t.co/pohepmr53t</a></p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/2035331378582093998?ref_src=twsrc%5Etfw\">March 21, 2026</a></blockquote>\n\n"
+      "text": "#KostasThoughts: The LLM-agentic approach to research is a paradigm shift, especially for those fluent in the “dark arts” of handcrafted research.\n\nBut what about newcomers? Do they struggle without that foundation, or move faster because they are not constrained by it?\n\nDoes speed trump depth? 🤔\n\nGreat podcast on this rapidly evolving shift.",
+      "html": null
     },
     "2035064787164402099": {
       "url": "https://x.com/CSProfKGD/status/2035064787164402099?s=20",
@@ -168,8 +168,8 @@
       "url": "https://x.com/CSProfKGD/status/2019512062024773954?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : Like many others, I used to cram too many images or videos onto one slide. They end up too small, the audience doesn’t know where to look, and you rush through them. My rule now: one idea or example per slide. Slides are free, use them. Here's a comparison:… pic.twitter.com/thcVMOlRD2",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>: Like many others, I used to cram too many images or videos onto one slide.  They end up too small, the audience doesn’t know where to look, and you rush through them.  My rule now: one idea or example per slide.  Slides are free, use them.<br><br>Here&#39;s a comparison:… <a href=\"https://t.co/thcVMOlRD2\">pic.twitter.com/thcVMOlRD2</a></p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/2019512062024773954?ref_src=twsrc%5Etfw\">February 5, 2026</a></blockquote>\n\n"
+      "text": "#KostasThoughts: Like many others, I used to cram too many images or videos onto one slide.  They end up too small, the audience doesn’t know where to look, and you rush through them.  My rule now: one idea or example per slide.  Slides are free, use them.\n\nHere's a comparison: (left) cramming examples, and (right) letting each example breathe on its own slide.  \n\nWhich do you prefer?",
+      "html": null
     },
     "2002814327708078460": {
       "url": "https://x.com/CSProfKGD/status/2002814327708078460?s=20",
@@ -189,15 +189,15 @@
       "url": "https://x.com/CSProfKGD/status/1994443941421195411?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : The #ICLR2026 review process has been disappointing. This is not on the PCs. It reflects our current environment where the scale of reviewing across the various conferences may have outgrown the bandwidth of the community (eg shortcuts via LLM generated reviews)…",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>: The <a href=\"https://x.com/hashtag/ICLR2026?src=hash&amp;ref_src=twsrc%5Etfw\">#ICLR2026</a> review process has been disappointing. This is not on the PCs. It reflects our current environment where the scale of reviewing across the various conferences may have outgrown the bandwidth of the community (eg shortcuts via LLM generated reviews)…</p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/1994443941421195411?ref_src=twsrc%5Etfw\">November 28, 2025</a></blockquote>\n\n"
+      "text": "#KostasThoughts: The #ICLR2026 review process has been disappointing. This is not on the PCs. It reflects our current environment where the scale of reviewing across the various conferences may have outgrown the bandwidth of the community (eg shortcuts via LLM generated reviews) and where some feel pressured enough to lose sight of basic ethics (eg reports of authors contacting reviewers to change their score or much worse if social media reports are to be believed).\n\nPerhaps it is time to rethink our conference culture.\n\nShare your thoughts in thread.",
+      "html": null
     },
     "1991929937020830002": {
       "url": "https://x.com/CSProfKGD/status/1991929937020830002?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : A prof’s email is not an admissions portal! Many prospective students copy-and-paste their statement of purpose or use a generic template (sometimes LLM-generated) and add a line or two about the prof’s broad research area and random paper from the professor’s…",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>: A prof’s email is not an admissions portal! Many prospective students copy-and-paste their statement of purpose or use a generic template (sometimes LLM-generated) and add a line or two about the prof’s broad research area and random paper from the professor’s…</p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/1991929937020830002?ref_src=twsrc%5Etfw\">November 21, 2025</a></blockquote>\n\n"
+      "text": "#KostasThoughts: A prof’s email is not an admissions portal! Many prospective students copy-and-paste their statement of purpose or use a generic template (sometimes LLM-generated) and add a line or two about the prof’s broad research area and random paper from the professor’s website. Emails like this rarely get attention.\n\nInstead, keep the email short, personalised, and focused; attach your CV.  Show how your background and goals genuinely connect to the prof’s current research trajectory.  Personalizing the email is important if you want to improve your chances.\n\nThe email is meant to be an icebreaker. If the prof is actively looking for students and their interest is piqued, they will reply.\n\nAlways begin formally: “Dear Professor <Last name>.” All my students, including undergrads, call me “Kosta”, but not every prof prefers that. Stay formal until invited otherwise.\n\nGood luck!",
+      "html": null
     },
     "1990236020881908038": {
       "url": "https://x.com/CSProfKGD/status/1990236020881908038?s=20",
@@ -217,8 +217,8 @@
       "url": "https://x.com/CSProfKGD/status/1922401234348073114?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : A common issue I see in the “related work” section of many papers is that they list similar prior work without clearly contextualizing their own contributions. The goal of this section is not just to cite related methods, but to compare and contrast them,…",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>:  A common issue I see in the “related work” section of many papers is that they list similar prior work without clearly contextualizing their own contributions.  The goal of this section is not just to cite related methods, but to compare and contrast them,…</p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/1922401234348073114?ref_src=twsrc%5Etfw\">May 13, 2025</a></blockquote>\n\n"
+      "text": "#KostasThoughts:  A common issue I see in the “related work” section of many papers is that they list similar prior work without clearly contextualizing their own contributions.  The goal of this section is not just to cite related methods, but to compare and contrast them, highlighting how your approach differs and what advantages it offers.\n\nBefore complaining that the reviewers didn’t understand your contributions, take another look at your related work section, that’s where the disconnect happens many times.",
+      "html": null
     },
     "1922300809930273032": {
       "url": "https://x.com/CSProfKGD/status/1922300809930273032?s=20",
@@ -231,8 +231,8 @@
       "url": "https://x.com/CSProfKGD/status/1922275723298955669?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : Struggling to understand parts of a paper you are reviewing? That’s valuable feedback to the authors! I suspect some worry they’ll be judged for not fully grasping every detail. It’s OK to admit you don’t understand something, better yet it’s even more… https://t.co/M0rP98a4ws",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>: Struggling to understand parts of a paper you are reviewing?  That’s valuable feedback to the authors!   I suspect some worry they’ll be judged for not fully grasping every detail.  It’s OK to admit you don’t understand something, better yet it’s even more… <a href=\"https://t.co/M0rP98a4ws\">https://t.co/M0rP98a4ws</a></p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/1922275723298955669?ref_src=twsrc%5Etfw\">May 13, 2025</a></blockquote>\n\n"
+      "text": "#KostasThoughts: Struggling to understand parts of a paper you are reviewing?  That’s valuable feedback to the authors!   I suspect some worry they’ll be judged for not fully grasping every detail.  It’s OK to admit you don’t understand something, better yet it’s even more valuable to the authors to walk them through what you think is going on.\n\nIf you’re outsourcing your reviews to an LLM, you’re not only cheating the authors out of that insight, you might also introduce inaccuracies into the process.  \n\nAuthors deserve your honest, unfiltered feedback, even if it’s imperfectly worded.",
+      "html": null
     },
     "1921601804338426278": {
       "url": "https://x.com/CSProfKGD/status/1921601804338426278?s=20",
@@ -350,8 +350,8 @@
       "url": "https://x.com/CSProfKGD/status/1839690270234890626?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : I’ve never been invited to give a workshop talk about my research. Admittedly, I have broad interests. So while I’m known through my X account, and we consistently publish, not sure most can attach me to a particular research area. My takeaway: At least as…",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>:  I’ve never been invited to give a workshop talk about my research.  Admittedly, I have broad interests.  So while I’m known through my X account, and we consistently publish, not sure most can attach me to a particular research area. <br><br>My takeaway: At least as…</p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/1839690270234890626?ref_src=twsrc%5Etfw\">September 27, 2024</a></blockquote>\n\n"
+      "text": "#KostasThoughts:  I’ve never been invited to give a workshop talk about my research.  Admittedly, I have broad interests.  So while I’m known through my X account, and we consistently publish, not sure most can attach me to a particular research area. \n\nMy takeaway: At least as an early researcher, be narrow and focused on a particular research topic, a body of work others will recognize you for.",
+      "html": null
     },
     "1835427195566670245": {
       "url": "https://x.com/CSProfKGD/status/1835427195566670245?s=20",
@@ -371,8 +371,8 @@
       "url": "https://x.com/CSProfKGD/status/1755622712272130320?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : For those jr researchers on the faculty market, be on the lookout for the culture in the department/university. A good one can propel your research program and growth forward, a bad one can stunt your progress. Cultures evolve very slowly in academia, don’t…",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>:  For those jr researchers on the faculty market, be on the lookout for the culture in the department/university.  A good one can propel your research program and growth forward, a bad one can stunt your progress.  Cultures evolve very slowly in academia, don’t…</p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/1755622712272130320?ref_src=twsrc%5Etfw\">February 8, 2024</a></blockquote>\n\n"
+      "text": "#KostasThoughts:  For those jr researchers on the faculty market, be on the lookout for the culture in the department/university.  A good one can propel your research program and growth forward, a bad one can stunt your progress.  Cultures evolve very slowly in academia, don’t expect it to change quickly, as much as you and others may try.  Good luck!",
+      "html": null
     },
     "1754260946179002523": {
       "url": "https://x.com/CSProfKGD/status/1754260946179002523?s=20",
@@ -392,22 +392,22 @@
       "url": "https://x.com/CSProfKGD/status/1751684843677610068?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : Program chairs can’t anticipate all issues. One needs a lawyer to anticipate some of them. Be understanding and patient. In cases where issues arise, the PCs’ goal is to come up with a just decision while balancing fairness for all submissions. Be patient,…",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>: Program chairs can’t anticipate all issues.  One needs a lawyer to anticipate some of them.  Be understanding and patient.  In cases where issues arise, the PCs’ goal is to come up with a just decision while balancing fairness for all submissions.  <br><br>Be patient,…</p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/1751684843677610068?ref_src=twsrc%5Etfw\">January 28, 2024</a></blockquote>\n\n"
+      "text": "#KostasThoughts: Program chairs can’t anticipate all issues.  One needs a lawyer to anticipate some of them.  Be understanding and patient.  In cases where issues arise, the PCs’ goal is to come up with a just decision while balancing fairness for all submissions.  \n\nBe patient, as decisions take time and there are a host of other issues to attend to.  You may have one or a few papers, the PCs for major conferences are handling thousands of papers, a career and family.",
+      "html": null
     },
     "1751663818235682951": {
       "url": "https://x.com/CSProfKGD/status/1751663818235682951?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : Being a program co-chair this past #WACV2024 exposed me to many submission problems. Some issues are serious enough that they can result in a paper desk-rejection or withdraw later. Here’s a list of some common issues: - make sure all authors are registered…",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>:  Being a program co-chair this past <a href=\"https://x.com/hashtag/WACV2024?src=hash&amp;ref_src=twsrc%5Etfw\">#WACV2024</a> exposed me to many submission problems.  Some issues are serious enough that they can result in a paper desk-rejection or withdraw later.  Here’s a list of some common issues:<br><br>- make sure all authors are registered…</p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/1751663818235682951?ref_src=twsrc%5Etfw\">January 28, 2024</a></blockquote>\n\n"
+      "text": "#KostasThoughts:  Being a program co-chair this past #WACV2024 exposed me to many submission problems.  Some issues are serious enough that they can result in a paper desk-rejection or withdraw later.  Here’s a list of some common issues:\n\n- make sure all authors are registered to paper (author additions after registration deadline are not allowed), we handled numerous emails from authors trying to get authors (eg supervisors 😔) added to paper, especially after acceptance \n\n- for industry papers, make sure you have followed your company’s submission policy, otherwise you risk having to pull the paper later by your company, this happens, most companies have a strict policy and protocol you must follow before public disclosure of work\n\n- before submitting make sure the paper meets the page limits, last minute changes can result in LaTeX pushing your text beyond the max limit, be paranoid \n\n- do not play with template fonts or margins\n\n- copying text from other papers (including from related work section) is plagiarism; conferences run a plagiarism checker \n\n@MajiSubhransu @HildeKuehne did I miss anything?",
+      "html": null
     },
     "1744721617232830942": {
       "url": "https://x.com/CSProfKGD/status/1744721617232830942?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : The most frustrating & nerve racking period for an area chair is the review deadline, where reviewers go missing. While reviewers missing the deadline is suboptimal, it is CRITICAL that reviewers keep their AC informed about the timeline for delivering their…",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>:  The most frustrating &amp; nerve racking period for an area chair is the review deadline, where reviewers go missing.  While reviewers missing the deadline is suboptimal, it is CRITICAL that reviewers keep their AC informed about the timeline for delivering their…</p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/1744721617232830942?ref_src=twsrc%5Etfw\">January 9, 2024</a></blockquote>\n\n"
+      "text": "#KostasThoughts:  The most frustrating & nerve racking period for an area chair is the review deadline, where reviewers go missing.  While reviewers missing the deadline is suboptimal, it is CRITICAL that reviewers keep their AC informed about the timeline for delivering their review; otherwise, your AC will have to scramble to find a suitable emergency reviewer from a limited pool.",
+      "html": null
     },
     "1743043604153790517": {
       "url": "https://x.com/CSProfKGD/status/1743043604153790517?s=20",
@@ -840,8 +840,8 @@
       "url": "https://x.com/CSProfKGD/status/1761104143731626189?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasKeynoteLessons : Curious about the \"magic\" behind my prezis? I'm thinking of starting a periodic post series of Keynote tips and tricks. Let's give it a try. Check out the thread below for a link to a Keynote file that combines a LaTeX equation with magic move (morph… pic.twitter.com/96ZbN8VlHr",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasKeynoteLessons?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasKeynoteLessons</a>:  Curious about the &quot;magic&quot; behind my prezis?  I&#39;m thinking of starting a periodic post series of Keynote tips and tricks.  Let&#39;s give it a try.<br><br>Check out the thread below for a link to a Keynote file that combines a LaTeX equation with magic move (morph… <a href=\"https://t.co/96ZbN8VlHr\">pic.twitter.com/96ZbN8VlHr</a></p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/1761104143731626189?ref_src=twsrc%5Etfw\">February 23, 2024</a></blockquote>\n\n"
+      "text": "#KostasKeynoteLessons:  Curious about the \"magic\" behind my prezis?  I'm thinking of starting a periodic post series of Keynote tips and tricks.  Let's give it a try.\n\nCheck out the thread below for a link to a Keynote file that combines a LaTeX equation with magic move (morph transition in PowerPoint) & opacity to animate equations.",
+      "html": null
     },
     "2067935592361369920": {
       "url": "https://x.com/CSProfKGD/status/2067935592361369920?s=20",
@@ -861,25 +861,30 @@
       "url": "https://x.com/CSProfKGD/status/2068401977088774448?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : The #computervision community is behind on review transparency. Reviews and meta-reviews should be made public for accepted papers and, if authors opt in, for rejected papers as well. Transparency can be a powerful mechanism for improving review and meta-review…",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>: The <a href=\"https://x.com/hashtag/computervision?src=hash&amp;ref_src=twsrc%5Etfw\">#computervision</a> community is behind on review transparency. Reviews and meta-reviews should be made public for accepted papers and, if authors opt in, for rejected papers as well.<br><br>Transparency can be a powerful mechanism for improving review and meta-review…</p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/2068401977088774448?ref_src=twsrc%5Etfw\">June 20, 2026</a></blockquote>\n\n"
+      "text": "#KostasThoughts: The #computervision community is behind on review transparency. Reviews and meta-reviews should be made public for accepted papers and, if authors opt in, for rejected papers as well.\n\nTransparency can be a powerful mechanism for improving review and meta-review quality. \n\n2028 is coming soon 🤔😉\n\n(Yeah, 😡 with one of our meta-reviews!)",
+      "html": null
     },
     "2068243455063580764": {
       "url": "https://x.com/CSProfKGD/status/2068243455063580764?s=20",
       "author_name": "Kosta Derpanis (sabbatical in Zurich)",
       "author_url": "https://x.com/CSProfKGD",
-      "text": "#KostasThoughts : Saturday morning stroll around Zurich. Been iterating on a lecture note on off-policy policy gradients with Codex, with the goal of building a lecture and accompanying notes on PPO. My courses have traditionally focused on slides, but accompanying tailored… pic.twitter.com/Ah5bRX4lWw",
-      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://x.com/hashtag/KostasThoughts?src=hash&amp;ref_src=twsrc%5Etfw\">#KostasThoughts</a>: Saturday morning stroll around Zurich. Been iterating on a lecture note on off-policy policy gradients with Codex, with the goal of building a lecture and accompanying notes on PPO.<br><br>My courses have traditionally focused on slides, but accompanying tailored… <a href=\"https://t.co/Ah5bRX4lWw\">pic.twitter.com/Ah5bRX4lWw</a></p>&mdash; Kosta Derpanis (sabbatical in Zurich) (@CSProfKGD) <a href=\"https://x.com/CSProfKGD/status/2068243455063580764?ref_src=twsrc%5Etfw\">June 20, 2026</a></blockquote>\n\n"
-    }
-  },
-  "errors": {
+      "text": "#KostasThoughts: Saturday morning stroll around Zurich. Been iterating on a lecture note on off-policy policy gradients with Codex, with the goal of building a lecture and accompanying notes on PPO.\n\nMy courses have traditionally focused on slides, but accompanying tailored lecture notes have often been missing simply due to lack of time. Frontier models are a game changer.\n\nSlides are for lectures. Documents are for offline reading.\n\nDon’t create slideuments (half slide, half document). They’re terrible for lectures and terrible for offline reading.",
+      "html": null
+    },
     "2037416736904052837": {
       "url": "https://x.com/CSProfKGD/status/2037416736904052837?s=20",
-      "error": "HTTP Error 403: Forbidden"
+      "author_name": "Kosta Derpanis (sabbatical in Zurich)",
+      "author_url": "https://x.com/CSProfKGD",
+      "text": "#KostasThoughts: Using images/videos in your slides?  \n\nDesign your slide so that the imagery bleeds over the image boundaries.",
+      "html": null
     },
     "2037409261429653829": {
       "url": "https://x.com/CSProfKGD/status/2037409261429653829?s=20",
-      "error": "HTTP Error 403: Forbidden"
+      "author_name": "Kosta Derpanis (sabbatical in Zurich)",
+      "author_url": "https://x.com/CSProfKGD",
+      "text": "#KostasKeynoteLessons: Still curious about the \"Keynote magic\" behind my slides?\n\nCheck out the full Keynote source files for my lectures on\n\nFlow Matching \nGaussian Splatting\nTransformers\n\nGrab the files in the thread and feel free to remix.",
+      "html": null
     }
-  }
+  },
+  "errors": {}
 }
