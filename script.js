@@ -5,6 +5,9 @@ const state = {
   sort: "newest",
 };
 
+const collapsedLineCount = 6;
+let resizeTimer;
+
 const topicOrder = [
   "Teaching & Presentations",
   "Peer Review & Conferences",
@@ -147,6 +150,8 @@ function renderPosts() {
       </div>
     </section>
   `).join("");
+
+  requestAnimationFrame(setupCollapsiblePosts);
 }
 
 function renderPost(post) {
@@ -164,12 +169,47 @@ function renderPost(post) {
         <h3 class="post-title">${link}</h3>
         <time class="post-date" datetime="${escapeHtml(post.date || "")}">${escapeHtml(date)}</time>
       </div>
-      ${text ? `<p class="post-text">${escapeHtml(text)}</p>` : ""}
+      ${text ? `
+        <div class="post-body">
+          <p class="post-text">${escapeHtml(text)}</p>
+        </div>
+        <button class="read-toggle" type="button" aria-expanded="false" hidden>Read more →</button>
+      ` : ""}
       <div class="post-meta">
         <span class="topic-tag">${escapeHtml(post.topic || "Miscellaneous")}${subtopic}</span>
       </div>
     </article>
   `;
+}
+
+function setupCollapsiblePosts() {
+  document.querySelectorAll(".post-card").forEach((card) => {
+    const body = card.querySelector(".post-body");
+    const text = card.querySelector(".post-text");
+    const button = card.querySelector(".read-toggle");
+    if (!body || !text || !button) return;
+
+    card.classList.remove("is-collapsible", "is-expanded");
+    button.hidden = true;
+    button.textContent = "Read more →";
+    button.setAttribute("aria-expanded", "false");
+
+    const style = window.getComputedStyle(text);
+    const lineHeight = Number.parseFloat(style.lineHeight);
+    const fontSize = Number.parseFloat(style.fontSize);
+    const resolvedLineHeight = Number.isFinite(lineHeight) ? lineHeight : fontSize * 1.55;
+    const collapsedHeight = resolvedLineHeight * collapsedLineCount;
+
+    if (body.scrollHeight > collapsedHeight + 2) {
+      card.classList.add("is-collapsible");
+      button.hidden = false;
+    }
+  });
+}
+
+function queueCollapsibleRefresh() {
+  window.clearTimeout(resizeTimer);
+  resizeTimer = window.setTimeout(setupCollapsiblePosts, 120);
 }
 
 function update() {
@@ -208,10 +248,24 @@ els.filters.addEventListener("click", (event) => {
   update();
 });
 
+els.posts.addEventListener("click", (event) => {
+  const button = event.target.closest(".read-toggle");
+  if (!button) return;
+
+  const card = button.closest(".post-card");
+  if (!card) return;
+
+  const expanded = card.classList.toggle("is-expanded");
+  button.textContent = expanded ? "Show less ↑" : "Read more →";
+  button.setAttribute("aria-expanded", String(expanded));
+});
+
 els.themeToggle?.addEventListener("click", () => {
   const current = document.documentElement.dataset.theme;
   applyTheme(current === "dark" ? "light" : "dark");
 });
+
+window.addEventListener("resize", queueCollapsibleRefresh);
 
 applyTheme(document.documentElement.dataset.theme);
 loadPosts();

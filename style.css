@@ -325,12 +325,65 @@ select:focus,
   font-size: 0.92rem;
 }
 
+.post-body {
+  max-height: none;
+  overflow: hidden;
+  position: relative;
+  transition: max-height 240ms ease;
+}
+
+.post-card.is-collapsible:not(.is-expanded) .post-body {
+  max-height: calc(0.96rem * 1.55 * 6);
+}
+
+.post-card.is-expanded .post-body {
+  max-height: 90rem;
+}
+
+.post-card.is-collapsible:not(.is-expanded) .post-body::after {
+  background: linear-gradient(180deg, rgba(255, 253, 248, 0), var(--paper));
+  bottom: 0;
+  content: "";
+  height: 2.8rem;
+  left: 0;
+  pointer-events: none;
+  position: absolute;
+  right: 0;
+}
+
+:root[data-theme="dark"] .post-card.is-collapsible:not(.is-expanded) .post-body::after {
+  background: linear-gradient(180deg, rgba(34, 36, 40, 0), var(--paper));
+}
+
 .post-text {
   margin: 4px 0 0;
   color: var(--body-text);
   font-size: 0.96rem;
   overflow-wrap: anywhere;
   white-space: pre-wrap;
+}
+
+.read-toggle {
+  background: transparent;
+  border: 0;
+  color: var(--accent-strong);
+  cursor: pointer;
+  display: inline-flex;
+  font: inherit;
+  font-size: 0.92rem;
+  font-weight: 750;
+  margin: 8px 0 0;
+  padding: 0;
+}
+
+.read-toggle:hover {
+  text-decoration: underline;
+}
+
+.read-toggle:focus-visible {
+  border-radius: 3px;
+  box-shadow: 0 0 0 3px rgba(23, 107, 135, 0.16);
+  outline: none;
 }
 
 .post-meta {
@@ -402,5 +455,11 @@ select:focus,
 
   .post-card {
     padding: 14px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .post-body {
+    transition: none;
   }
 }
