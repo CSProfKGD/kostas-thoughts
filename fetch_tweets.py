@@ -22,6 +22,7 @@ ADDITIONAL_TWEET_URLS = [
     "https://x.com/CSProfKGD/status/2069423541200552231?s=20",
     "https://x.com/CSProfKGD/status/2068401977088774448?s=20",
     "https://x.com/CSProfKGD/status/2068243455063580764?s=20",
+    "https://x.com/CSProfKGD/status/2079525120666726890?s=20",
 ]
 
 

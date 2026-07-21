@@ -1,7 +1,7 @@
 {
   "source": "kostas thoughts.txt",
-  "generated_at": "2026-06-25T00:02:35+00:00",
-  "post_count": 126,
+  "generated_at": "2026-07-21T11:59:48+00:00",
+  "post_count": 127,
   "notes": [
     "Input was treated as read-only.",
     "Posts were split on blank-line-separated blocks.",
@@ -1267,6 +1267,16 @@
       "url": "https://x.com/CSProfKGD/status/2068243455063580764?s=20",
       "title": "How can Codex help build lecture notes for a PPO lecture?",
       "summary_question": "How can Codex help build lecture notes for a PPO lecture?",
+      "topic": "Teaching & Presentations",
+      "subtopic": null
+    },
+    {
+      "id": "2079525120666726890",
+      "date": "2026-07-21",
+      "text": "Someone recently said to me, “You obviously really love teaching.”\n\nI replied, “It would really suck to hate one-third of your job.”",
+      "url": "https://x.com/CSProfKGD/status/2079525120666726890?s=20",
+      "title": "Why does loving teaching matter in an academic job?",
+      "summary_question": "Why does loving teaching matter in an academic job?",
       "topic": "Teaching & Presentations",
       "subtopic": null
     }

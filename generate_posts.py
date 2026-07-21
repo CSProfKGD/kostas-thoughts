@@ -22,8 +22,10 @@ ADDITIONAL_TWEET_URLS = [
     "https://x.com/CSProfKGD/status/2069423541200552231?s=20",
     "https://x.com/CSProfKGD/status/2068401977088774448?s=20",
     "https://x.com/CSProfKGD/status/2068243455063580764?s=20",
+    "https://x.com/CSProfKGD/status/2079525120666726890?s=20",
 ]
 QUESTION_OVERRIDES = {
+    "2079525120666726890": "Why does loving teaching matter in an academic job?",
     "2069423541200552231": "What is the supervisor’s role beyond funding and mentoring?",
     "2068401977088774448": "How can review transparency improve computer vision peer review?",
     "2068243455063580764": "How can Codex help build lecture notes for a PPO lecture?",
@@ -87,6 +89,7 @@ QUESTION_OVERRIDES = {
     "1471158646847516674": "How can academic Twitter enrich teaching?",
 }
 TOPIC_OVERRIDES = {
+    "2079525120666726890": "Teaching & Presentations",
     "2069423541200552231": "Mentoring & Students",
     "2068401977088774448": "Peer Review & Conferences",
     "2068243455063580764": "Teaching & Presentations",
@@ -108,6 +111,7 @@ TOPIC_OVERRIDES = {
     "1488905123153821702": "Productivity",
 }
 MANUAL_TWEET_TEXT = {
+    "2079525120666726890": "Someone recently said to me, “You obviously really love teaching.”\n\nI replied, “It would really suck to hate one-third of your job.”",
     "2037416736904052837": "#KostasThoughts: Using images/videos in your slides?\n\nDesign your slide so that the imagery bleeds over the image boundaries.",
     "2037409261429653829": "#KostasKeynoteLessons: Still curious about the \"Keynote magic\" behind my slides?\n\nCheck out the full Keynote source files for my lectures on\n\nFlow Matching\nGaussian Splatting\nTransformers\n\nGrab the files in the thread and feel free to remix.",
 }

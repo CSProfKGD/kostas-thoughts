@@ -17,9 +17,10 @@ Because the source file contains URLs only, tweet body text is cached separately
 Generated review result:
 
 - `posts_review.json`
-- Detected unique posts: 122
-- Cached tweet texts: 120
-- URL-only fallbacks: 2 public embeds returned 403
+- Detected unique posts: 127
+- Cached tweet texts: 126
+- Manual tweet text overrides: 3
+- URL-only fallbacks: 0
 
 ## Regenerate `posts.json`
 
